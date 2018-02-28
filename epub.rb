@@ -1,5 +1,6 @@
 require 'epub/parser'
 require 'curses'
+require 'psych'
 
 def init_app
   Curses.init_screen
@@ -7,11 +8,8 @@ def init_app
   Curses.cbreak
   Curses.curs_set(0) 
 
+  @save_file = './bookmark.yml'
   @filename = ARGV[0]
-  @bookmark_chapter = ARGV[1].to_i
-  @bookmark_char = ARGV[2].to_i
-  @bookmark_cur_pos = @bookmark_char
-  @bookmark_cur_chap = @bookmark_chapter
 
   @book = EPUB::Parser.parse(@filename)
 
@@ -19,7 +17,7 @@ def init_app
   @win.keypad = true
   @max_x = @win.maxx
   @max_y = @win.maxy
-  @area = (@max_x -2 ) * (@max_y -3)
+  @area = (@max_x) * (@max_y -3)
 end  
 
 def set_header
@@ -35,6 +33,8 @@ def page_down
     @bookmark_cur_chap += 1
     @bookmark_cur_pos = 0
   end
+
+  @win.clear
 
   set_header
 
@@ -58,6 +58,8 @@ def page_up
     @bookmark_cur_pos = @chapter.content_document.nokogiri.text.length - @area
   end
 
+  @win.clear
+
   set_header
 
   @win.setpos(2, 0)
@@ -65,20 +67,45 @@ def page_up
   @win.refresh
 end  
 
-begin
-  init_app
+def save_bookmark
+  File.open('bookmark.yml', 'w') do |file|
+    file.write(Psych.dump({ 'bookmark_chapter' => @bookmark_cur_chap, 'bookmark_char' => @bookmark_cur_pos }))
+  end
+end
+
+def load_bookmark
+  saves = Psych.load_file(@save_file)
+
+  @bookmark_chapter = saves['bookmark_chapter']
+  @bookmark_char = saves['bookmark_char']
+  @bookmark_cur_pos = @bookmark_char
+  @bookmark_cur_chap = @bookmark_chapter
 
   @parser = @book.each_page_on_spine
 
   for i in 1..@bookmark_chapter
     @chapter = @parser.next 
-  end  
+  end 
 
   set_header
 
   @win.setpos(2, 0)
   @win.addstr(@chapter.content_document.nokogiri.text[@bookmark_cur_pos..(@bookmark_cur_pos + @area)])
   @win.refresh
+end  
+
+def truncate s, length = 30, ellipsis = ''
+  if s.length > length
+    s.to_s[0..length].gsub(/[^\w]\w+\s*$/, ellipsis)
+  else
+    s
+  end
+end
+
+begin
+  init_app
+
+  load_bookmark
 
   while true
     @input = @win.getch
@@ -88,21 +115,10 @@ begin
     elsif @input == 259
       page_up  
     elsif @input == "q" or @input == 27
+      save_bookmark
       break  
     end  
   end  
-
-  # while true
-  #   @input = @win.getch
-  #   case @input
-  #    when Curses::Key::DOWN
-  #      page_down
-  #    when "q"
-  #      break  
-  #    else
-  #      puts ""
-  #    end  
-  #  end
 ensure
   Curses.close_screen
 end
