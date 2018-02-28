@@ -39,7 +39,7 @@ def page_down
   set_header
 
   @win.setpos(2, 0)
-  @win.addstr(@chapter.content_document.nokogiri.text[(@bookmark_cur_pos)..(@bookmark_cur_pos + @area)])
+  @win.addstr(reformat_wrapped(@chapter.content_document.nokogiri.text[@bookmark_cur_pos..(@bookmark_cur_pos + @area)], @max_x - 1))
   @win.refresh
 end  
 
@@ -63,7 +63,7 @@ def page_up
   set_header
 
   @win.setpos(2, 0)
-  @win.addstr(@chapter.content_document.nokogiri.text[(@bookmark_cur_pos)..(@bookmark_cur_pos + @area)])
+  @win.addstr(reformat_wrapped(@chapter.content_document.nokogiri.text[@bookmark_cur_pos..(@bookmark_cur_pos + @area)], @max_x - 1))
   @win.refresh
 end  
 
@@ -90,16 +90,25 @@ def load_bookmark
   set_header
 
   @win.setpos(2, 0)
-  @win.addstr(@chapter.content_document.nokogiri.text[@bookmark_cur_pos..(@bookmark_cur_pos + @area)])
+  @win.addstr(reformat_wrapped(@chapter.content_document.nokogiri.text[@bookmark_cur_pos..(@bookmark_cur_pos + @area)], @max_x - 1))
   @win.refresh
 end  
 
-def truncate s, length = 30, ellipsis = ''
-  if s.length > length
-    s.to_s[0..length].gsub(/[^\w]\w+\s*$/, ellipsis)
-  else
-    s
-  end
+def reformat_wrapped(s, width=78)
+  lines = []
+  line = ""
+  s.split(/\s+/).each do |word|
+    if line.size + word.size >= width
+      lines << line
+      line = word
+    elsif line.empty?
+     line = word
+    else
+     line << " " << word
+   end
+   end
+   lines << line if line
+  return lines.join "\n"
 end
 
 begin
