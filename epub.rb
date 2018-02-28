@@ -17,7 +17,7 @@ def init_app
   @win.keypad = true
   @max_x = @win.maxx
   @max_y = @win.maxy
-  @area = (@max_x) * (@max_y -3)
+  @area = (@max_x) * (@max_y -4)
 end  
 
 def set_header
