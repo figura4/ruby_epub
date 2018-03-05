@@ -66,7 +66,7 @@ def page_up
   set_header
 
   @win.setpos(2, 0)
-  @win.addstr(reformat_wrapped(@chapter.content_document.nokogiri.text[@bookmark_cur_pos..(@bookmark_cur_pos + @area)], @max_x - 1))
+  @win.addstr(reformat_wrapped(@chapter.content_document.nokogiri.text[@bookmark_cur_pos..(@bookmark_cur_pos + @area)], @max_x - 2))
   @win.refresh
 end
 
@@ -98,21 +98,37 @@ def load_bookmark
 end
 
 def reformat_wrapped(s, width=78)
-  #"lorem ispum \\n\\n dixit suca".gsub('\n\n', '##par##').split(/\s+/).join(' ').gsub('##par##', '\n\n')
+
   lines = []
   line = ""
-  @log.debug s
-  s.gsub(".\n", '##.par##').gsub("”\n", '##c_par##').split(/\s+/).each do |word|
-    if line.size + word.size >= width
-      lines << line.gsub('##.par##', ".\n").gsub('##c_par##', "”\n")
+  s.gsub(".\n", '.#.# ').gsub("”\n", '”#c# ').gsub(/[\r\n\s+]{3,}/, '#p#').split(/\s+/).each do |word|
+    if (word.include?("#.#") or word.include?("#c#") or word.include?("#r#") or word.include?("#p#"))
+      splitted = word.split(/(#.#|#c#|#r#|#p#)/)
+      line << " " << splitted[0]
+      lines << line if line
+      line = ""
+      if splitted[1] == "#p#"
+        line = "\n\n"
+        lines << line
+        line = ""
+      end
+      if splitted[2]
+        line << " " << splitted[2]
+      end
+      if splitted[4]
+        line << " " << splitted[4]
+      end
+    elsif line && line.size + word.size >= width
+      lines << line
       line = word
-    elsif line.empty?
-     line = word
+    elsif line && line.empty?
+      line = word
     else
-     line << " " << word
+      #@log.debug "step 3 line size: #{line.size}, word: #{word}"
+      line << " " << word
     end
   end
-  lines << line.gsub('##.par##', ".\n").gsub('##c_par##', "”\n") if line
+  lines << line if line
   return lines.join "\n"
 end
 
