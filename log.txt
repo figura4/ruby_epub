@@ -1,0 +1,981 @@
+# Logfile created on 2018-02-28 14:27:32 +0100 by logger.rb/56815
+D, [2018-02-28T14:27:41.946022 #10130] DEBUG -- : 
+D, [2018-02-28T14:27:44.132417 #10130] DEBUG -- : 
+D, [2018-02-28T14:28:34.578240 #10182] DEBUG -- : verything that needed to be done, but he wanted to, so he shadowed the technicians doing the really complicated work.
+      It all felt very normal, very routine, almost like still having his old life.
+      But then he’d return to his apartment eight hours later and no one would be there. He was truly alone for the first time in years. Amos wouldn’t come by asking him to hit a bar. Alex wouldn’t watch the video streams sitting on his couch and making sarcastic comments to the screen. Naomi wouldn’t be there to ask about his day and compare notes on how the repairs were coming. The rooms even smelled empty.
+      It wasn’t something about himself he’d ever had to face before, but Holden was coming to realize how
+D, [2018-02-28T14:28:35.277192 #10182] DEBUG -- : w much he needed family. He’d grown up with eight parents, and a seemingly endless supply of grandparents, aunts, uncles, and cousins. When he’d left Earth for the Navy, he’d spent four years at the academy with roommates and classmates and girlfriends. Even after his dishonorable discharge, he’d gone straight to work for Pur’N’Kleen on the Canterbury and a whole new loose-knit family of coworkers and friends. Or if not family, at least people.
+      The only two people he’d been close with on Tycho were Fred, so busy with his political machinations he barely had time to breathe, and Sam, who’d died in the slow zone years ago. The new Sam – Sakai – was a competent engineer and seemed to take fixing his ship seri
+D, [2018-02-28T14:28:35.500753 #10182] DEBUG -- : iously, but had expressed no interest in any association outside of that.
+      So Holden spent a lot of time in bars.
+      The Blauwe Blome was too noisy and too filled with people who knew Naomi but not him. The places close to the docks were full of boisterous workers coming off shift and picking a fight with a famous guy seemed like a great way to blow off steam. Anyplace else with more than four people in it at a time turned into line up to have your picture taken with James Holden then ask him personal questions for an hour. So, he found a small restaurant nestled in a side corridor between a residential section and a strip of commercial shopping outlets. It specialized in what the Belters were calling It
+D, [2018-02-28T14:31:49.511956 #10250] DEBUG -- : iously, but had expressed no interest in any association outside of that.
+      So Holden spent a lot of time in bars.
+      The Blauwe Blome was too noisy and too filled with people who knew Naomi but not him. The places close to the docks were full of boisterous workers coming off shift and picking a fight with a famous guy seemed like a great way to blow off steam. Anyplace else with more than four people in it at a time turned into line up to have your picture taken with James Holden then ask him personal questions for an hour. So, he found a small restaurant nestled in a side corridor between a residential section and a strip of commercial shopping outlets. It specialized in what the Belters were calling It
+D, [2018-02-28T14:31:50.953114 #10250] DEBUG -- : talian food and had a small bar in a back room that everyone seemed to ignore.
+      Holden could sit at a tiny table skimming the latest news on his hand terminal, reading messages, and finally check out all the books he’d downloaded over the last six years. The bar served the same food as the restaurant out front, and while it was not something anyone from Earth would have mistaken for Italian, it was edible. The cocktails were mediocre and cheap.
+      It might almost have been tolerable if Naomi hadn’t seemingly fallen out of the universe. Alex sent regular updates about where he was and what he was up to. Amos had his terminal automatically send a message letting Holden know his flight had landed on Luna, a
+D, [2018-02-28T14:31:54.208468 #10250] DEBUG -- : and then New York. From Naomi, nothing. She still existed, or at least her hand terminal did. The messages he sent arrived somewhere. He never got a failed connection from the network. But the successfully received message was his only reply.
+      After a couple weeks of his new bad Italian food and cheap cocktails routine, his terminal finally rang with an incoming voice request. He knew it couldn’t be from Naomi. The light lag made a live connection unworkable for any two people not living on the same station. But he still pulled the terminal out of his pocket so fast that he fumbled it across the room.
+      The bartender – Chip – said, “Had a few too many of my margaritas?”
+      “The first one was too many
+D, [2018-02-28T14:32:27.059574 #10274] DEBUG -- : and then New York. From Naomi, nothing. She still existed, or at least her hand terminal did. The messages he sent arrived somewhere. He never got a failed connection from the network. But the successfully received message was his only reply.
+      After a couple weeks of his new bad Italian food and cheap cocktails routine, his terminal finally rang with an incoming voice request. He knew it couldn’t be from Naomi. The light lag made a live connection unworkable for any two people not living on the same station. But he still pulled the terminal out of his pocket so fast that he fumbled it across the room.
+      The bartender – Chip – said, “Had a few too many of my margaritas?”
+      “The first one was too many
+D, [2018-02-28T14:32:31.121630 #10274] DEBUG -- : y,” Holden replied, then climbed under the booth looking for the terminal. “And calling that a margarita should be illegal.”
+      “It’s as margarita as it gets with rice wine and lime flavor concentrate,” Chip said, sounding vaguely hurt.
+      “Hello?” Holden yelled at the terminal, mashing the touch screen to open the connection. “Hello?”
+      “Hi, Jim?” a female voice said. It didn’t sound anything like Naomi.
+      “Who is this?” he asked, then cracked his head on the edge of the table climbing back out and added, “Dammit!”
+      “Monica,” the voice on the other end said. “Monica Stuart? Did I catch you at a bad time?”
+      “Sort of busy right now, Monica,” Holden said. Chip rolled his eyes. Holden flippe
+D, [2018-02-28T14:33:18.934938 #10301] DEBUG -- : y,” Holden replied, then climbed under the booth looking for the terminal. “And calling that a margarita should be illegal.”
+      “It’s as margarita as it gets with rice wine and lime flavor concentrate,” Chip said, sounding vaguely hurt.
+      “Hello?” Holden yelled at the terminal, mashing the touch screen to open the connection. “Hello?”
+      “Hi, Jim?” a female voice said. It didn’t sound anything like Naomi.
+      “Who is this?” he asked, then cracked his head on the edge of the table climbing back out and added, “Dammit!”
+      “Monica,” the voice on the other end said. “Monica Stuart? Did I catch you at a bad time?”
+      “Sort of busy right now, Monica,” Holden said. Chip rolled his eyes. Holden flippe
+D, [2018-02-28T14:33:23.842413 #10301] DEBUG -- : ed him off, and the bartender started mixing him another drink. Probably as punishment for the insult.
+      “I understand,” Monica said. “But I have something I’d love to run past you. Is there any chance we can get together? Dinner, a drink, anything?”
+      “I’m afraid I’m on Tycho Station for the foreseeable future, Monica. The Roci is getting a full refit right now. So —”
+      “Oh, I know. I’m on Tycho too. That’s why I called.”
+      “Right,” Holden said. “Of course you are.”
+      “Is tonight good?”
+      Chip put the drink on a tray, and a waiter from the restaurant out front popped in to carry it away. Chip saw him looking at it and mouthed Want another? at him. The prospect of another night of what th
+D, [2018-02-28T14:33:24.602276 #10301] DEBUG -- : he restaurant laughably called lasagna and enough of Chip’s “margaritas” to kill the aftertaste felt like slow death.
+      The truth was, he was bored and lonely. Monica Stuart was a journalist and had serious problems about only showing up when she wanted something. She always had an ulterior motive. But finding out what she wanted and then saying no would kill an evening in a way that wasn’t exactly like every other evening since Naomi left. “Yeah, okay Monica, dinner sounds great. Not Italian.”
+      
+         
+        
+          
+        
+         
+      
+      They ate salmon sushi from fish grown in tanks on the station. It was outrageously expensive, but being paid for by Monica’s expense account. Holden
+D, [2018-02-28T14:33:25.162025 #10301] DEBUG -- : n indulged himself until his clothes stopped fitting.
+      Monica ate sparingly, with small precise movements of her chopsticks, almost picking up the rice one kernel at a time. She ignored the wasabi altogether. She’d aged some too, since Holden had last seen her in person. Unlike Fred, the extra years looked good on her, adding a sense of experience and gravitas to her video-star looks.
+      They’d started the evening talking about little things: how the ship repairs were going, what had happened to the team she’d taken on the Rocinante back when the Ring was a new thing, where Alex and Amos and Naomi had gone. He’d found himself talking more than he meant to. He didn’t dislike Monica, but she wasn’t someone
+D, [2018-02-28T14:33:26.010436 #10301] DEBUG -- : he restaurant laughably called lasagna and enough of Chip’s “margaritas” to kill the aftertaste felt like slow death.
+      The truth was, he was bored and lonely. Monica Stuart was a journalist and had serious problems about only showing up when she wanted something. She always had an ulterior motive. But finding out what she wanted and then saying no would kill an evening in a way that wasn’t exactly like every other evening since Naomi left. “Yeah, okay Monica, dinner sounds great. Not Italian.”
+      
+         
+        
+          
+        
+         
+      
+      They ate salmon sushi from fish grown in tanks on the station. It was outrageously expensive, but being paid for by Monica’s expense account. Holden
+D, [2018-02-28T14:33:33.290276 #10301] DEBUG -- : n indulged himself until his clothes stopped fitting.
+      Monica ate sparingly, with small precise movements of her chopsticks, almost picking up the rice one kernel at a time. She ignored the wasabi altogether. She’d aged some too, since Holden had last seen her in person. Unlike Fred, the extra years looked good on her, adding a sense of experience and gravitas to her video-star looks.
+      They’d started the evening talking about little things: how the ship repairs were going, what had happened to the team she’d taken on the Rocinante back when the Ring was a new thing, where Alex and Amos and Naomi had gone. He’d found himself talking more than he meant to. He didn’t dislike Monica, but she wasn’t someone
+D, [2018-02-28T14:33:33.762226 #10301] DEBUG -- : e he particularly trusted either. But she knew him, and they’d traveled together, and even more than good food, he was hungry to talk to someone he actually sort of knew.
+      “So there’s this weird thing,” she said, then dabbed at the corners of her mouth with a napkin.
+      “Weirder than eating raw fish on a space station with one of the solar system’s most famous reporters?”
+      “You’re flattering me.”
+      “It’s habit. I don’t mean anything by it.”
+      Monica rooted around in the satchel she’d brought and pulled out a flimsy roll-out video screen. She pushed plates out of the way and flattened the screen out on the table. When it came on, it showed the image of a heavy freighter, blocky and thick, hea
+D, [2018-02-28T14:33:34.186222 #10301] DEBUG -- : ading toward one of the rings inside the slow zone. “Watch this.”
+      The picture sprang into motion, the freighter burning toward a ring gate at low thrust. He assumed it was the one that led from the solar system to the slow zone and Medina Station, but it could have been any of the others. They all looked pretty much the same. When the ship passed through the gate, the image flickered and danced as the recording equipment was bombarded with high-energy particles and magnetic flux. The image stabilized, and the ship was no longer visible. That didn’t mean much. Light passing through the gates had always behaved oddly, bending the images like refraction in water. The video ended.
+      “I’ve seen that one bef
+D, [2018-02-28T14:33:34.818272 #10301] DEBUG -- : e he particularly trusted either. But she knew him, and they’d traveled together, and even more than good food, he was hungry to talk to someone he actually sort of knew.
+      “So there’s this weird thing,” she said, then dabbed at the corners of her mouth with a napkin.
+      “Weirder than eating raw fish on a space station with one of the solar system’s most famous reporters?”
+      “You’re flattering me.”
+      “It’s habit. I don’t mean anything by it.”
+      Monica rooted around in the satchel she’d brought and pulled out a flimsy roll-out video screen. She pushed plates out of the way and flattened the screen out on the table. When it came on, it showed the image of a heavy freighter, blocky and thick, hea
+D, [2018-02-28T14:35:11.424632 #10349] DEBUG -- : e he particularly trusted either. But she knew him, and they’d traveled together, and even more than good food, he was hungry to talk to someone he actually sort of knew.
+      “So there’s this weird thing,” she said, then dabbed at the corners of her mouth with a napkin.
+      “Weirder than eating raw fish on a space station with one of the solar system’s most famous reporters?”
+      “You’re flattering me.”
+      “It’s habit. I don’t mean anything by it.”
+      Monica rooted around in the satchel she’d brought and pulled out a flimsy roll-out video screen. She pushed plates out of the way and flattened the screen out on the table. When it came on, it showed the image of a heavy freighter, blocky and thick, hea
+D, [2018-02-28T14:35:19.788606 #10349] DEBUG -- : ading toward one of the rings inside the slow zone. “Watch this.”
+      The picture sprang into motion, the freighter burning toward a ring gate at low thrust. He assumed it was the one that led from the solar system to the slow zone and Medina Station, but it could have been any of the others. They all looked pretty much the same. When the ship passed through the gate, the image flickered and danced as the recording equipment was bombarded with high-energy particles and magnetic flux. The image stabilized, and the ship was no longer visible. That didn’t mean much. Light passing through the gates had always behaved oddly, bending the images like refraction in water. The video ended.
+      “I’ve seen that one bef
+D, [2018-02-28T14:35:21.604213 #10349] DEBUG -- : fore,” Holden said. “Good special effects but the plot’s thin.”
+      “Actually you kind of haven’t. Guess what happened to that ship?” Monica said, face flushed with excitement.
+      “What?”
+      “No, really, guess. Speculate. Give me a hypothesis. Because it never came out the other side.”
+    
+  
+
+D, [2018-02-28T14:35:26.650157 #10349] DEBUG -- : 
+  
+    Chapter Six: Alex
+    
+    
+  
+  
+    
+      
+        
+          
+            
+              
+              Chapter Six: Alex
+            
+          
+        
+      
+      “Hey, Bobbie,” Alex said to his hand terminal’s camera. “I’m gonna be downstairs in Mariner for a week or two, stayin’ with a cousin. I was wondering if you wanted to get lunch while I’m in town.”
+      He ended the message and sent it, put his hand terminal back in his pocket, fidgeted, took it out again. He started paging back through his contacts, looking for another distraction. With every minute, he came closer to the thin exosphere of home. They were already inside the orbit of Phobos and the now invisibly thin scatter of gravel 
+D, [2018-02-28T14:35:27.564255 #10349] DEBUG -- :  that people called the Deimos Ring. The drop ship didn’t have screens, but from here he’d have been able to see the massive steel of Hecate Base spilling up the side of Olympus Mons. He’d been a boot there after he joined the Navy.
+      Mariner Valley had been one of the first large-scale settlements on Mars. Five linked neighborhoods that burrowed into the sides of the vast canyons, huddling under the stone and regolith. The network of bridges and tubes that linked them were called Haizhe because the westernmost bridge structures and the trailing tubes made a figure like a cartoon jellyfish. The later high-speed line to Londres Nova was a spear in the jellyfish’s crown.
+      Three waves of Chinese and Indian
+D, [2018-02-28T14:35:30.876375 #10349] DEBUG -- : n colonists dug deep into the dry soil there, eking out a thin, perilous existence, pushing the limits of human habitation and ability. His family had been one of them. He’d been an only child to older parents. He had no nieces or nephews, but the variety of Kamal cousins in the Valley were enough that he could go from one guest room to another for months without wearing out his welcome at any one of them.
+      The drop ship shuddered, the atmosphere outside thick enough now to cause turbulence. The acceleration alarm chimed pleasantly and a recorded voice instructed him and the other passengers to check the straps on their gel couches and put any objects more than two kilos into the lockers set into the wall a
+D, [2018-02-28T14:35:34.772644 #10349] DEBUG -- : at their sides. The braking burn would commence in thirty seconds, and reach a maximum burn of three gs. The automated concern made that sound like a lot, but he supposed some folks would be impressed.
+      He put his hand terminal in the locker, cycled it closed, and waited for the braking rockets to push him back into his couch. In one of the other compartments, a baby was crying. The countdown tones began, a music of converging intervals distinguishable in any language. When the tones resolved into a gentle and reassuring chord, the burn kicked in, pressing him into the gel. He dozed as the ship rattled and shook. The atmosphere of Mars wasn’t thick enough to use it for aerobraking on their steep descent pat
+D, [2018-02-28T14:35:36.419945 #10349] DEBUG -- : th, but it could still generate a lot of heat. Half-awake, he ran through the math of landing, the numbers growing more and more surreal as the light sleep washed over him. If something had gone wrong – a change in the burn, an impact shudder passing through the ship, a shift in the couch’s gimbals – he’d have been awake and alert in an instant. But nothing happened, so nothing happened. As homecomings went, it wasn’t bad.
+      The port proper was at the base of the valley. Six and a half kilometers of stone rose up from the pads, the strip of sky above them hardly more than thirty degrees from rim to rim. The processing station was one of the oldest buildings in Mariner, its massive clear dome built with the d
+D, [2018-02-28T14:35:37.604426 #10349] DEBUG -- : dual purposes of blocking radiation and providing a view that would impress with its scale. The canyons ran to the east, rugged and craggy and beautiful. Lights glittered from the canyon’s sides where the neighborhoods impinged out from the rock, the homes of the insanely wealthy trading the safety of deep stone for the status of an actual exterior window. A transport flier passed, hugging low to the ground where the relatively thick air gave its gossamer wings a little more purchase.
+      Once upon a time, the data said, Mars had been the home of its own biosphere. Rain had fallen here. Rivers had flowed. Not, perhaps, in the geologic eyeblink of human history, but once. And would, the terraformers promised, a
+D, [2018-02-28T14:35:39.620693 #10349] DEBUG -- : again. Not in their lifetimes or their children’s, but one day. Alex waited in the customs queue, looking up. The pull of the planet, only about one-third g, felt strange. No matter what the math said, thrust gravity felt different than being down a well. Between the magnificence of the canyons and the eeriness of his weight, Alex felt the anxiety growing in his chest.
+      He was here. He was home.
+      The man processing the arriving travelers wore a thick mustache, white with a tinge of red. His eyes were bloodshot and his expression glum.
+      “Business or pleasure?”
+      “Neither one,” Alex drawled, “I’m here to see the ex-wife.”
+      The man gave a quick smile. “That going to be a business meeting, or
+D, [2018-02-28T14:35:44.508684 #10349] DEBUG -- : r pleasure?”
+      “Let’s call it not-business,” Alex said.
+      The processor stroked the screen of his terminal, nodded toward the camera. As the system confirmed that he was who he claimed to be, Alex wondered why he’d said that. He hadn’t said that Tali was a shrew, he hadn’t insulted her, but he’d leaned on the assumption for a quick joke. He felt like she deserved better from him. Probably she did.
+      “’Joy your stay,” the processing man said, and Alex was free to enter the world he’d left.
+      His cousin Min stood in the waiting area. She was ten years younger than him, the last vestiges of youth falling from her and the first comfortable heft of middle age creeping in. Her smile belonged to a littl
+D, [2018-03-01T17:33:32.373956 #6569] DEBUG -- : r pleasure?”
+      “Let’s call it not-business,” Alex said.
+      The processor stroked the screen of his terminal, nodded toward the camera. As the system confirmed that he was who he claimed to be, Alex wondered why he’d said that. He hadn’t said that Tali was a shrew, he hadn’t insulted her, but he’d leaned on the assumption for a quick joke. He felt like she deserved better from him. Probably she did.
+      “’Joy your stay,” the processing man said, and Alex was free to enter the world he’d left.
+      His cousin Min stood in the waiting area. She was ten years younger than him, the last vestiges of youth falling from her and the first comfortable heft of middle age creeping in. Her smile belonged to a littl
+D, [2018-03-01T17:33:39.394875 #6569] DEBUG -- : le girl he’d known once.
+      “Hey there, podner,” she said, the Mariner drawl probably half a degree thicker than it normally was. “What brings you round these parts?”
+      “More sentiment than sense,” Alex said, opening his arms. They embraced for a moment.
+      “You got any luggage?” Min asked.
+      “Traveling light.”
+      “Fair enough. I’ve got a cart down at the front.”
+      Alex hoisted an eyebrow. “You didn’t need to do that.”
+      “They’re cheaper than they used to be. The kids aren’t back from lower U for another four hours. You got anything you want to do before we’ve got them underfoot?”
+      “The only two things I’ve been looking forward to were seeing people and a bowl of Hassan’s noodles.”
+
+D, [2018-03-01T17:33:50.658665 #6569] DEBUG -- : 
+      The look of embarrassment passed over Min’s face and vanished again in an eyeblink. “There’s a great noodle shop over on the south face. Garlic sauce that’ll knock you sideways. But Hassan packed it in about four years ago.”
+      “Ah. No, it’s all right. The thing about Hassan’s wasn’t that they were good.”
+      “Well, now that’s truth.”
+      “It’s just that they were his.”
+      The cart was a common electric, wider and tougher than the ones they used on stations. The tires were clear polymer that wouldn’t streak the floors of the corridors. Alex slid into the passenger’s seat, Min taking the controls. They talked about small, domestic things – who in the family was getting married, who was getting di
+D, [2018-03-01T17:33:57.822585 #6569] DEBUG -- : ivorced, who was moving and where. A surprising number of Min’s siblings were on ships headed for the Ring, and though she didn’t say it outright, he had the sense that she was more interested in hearing about what he’d seen on the other side of it than in him.
+      They passed down a long access tunnel and then across one of the linking bridges to Bunker Hill. It was the neighborhood where Alex had grown up. His father’s ashes were in the crypt at the synagogue, his mother’s had been scattered over the Ophir Chasmata. The first girl he’d ever kissed had lived in rooms two corridors down from the place Min’s family was in now. His best friend growing up had been an ethnic Chinese boy named Johnny Zhou who’d liv
+D, [2018-03-01T17:34:01.304702 #6569] DEBUG -- : ved with an older brother and sister on the other side of the canyon.
+      Driving along the corridors now, the memories flooded him. The curve of the corridor where the Lone Star Sharabaghar had held weekend dance and drinking contests. The time when he was nine that he’d been caught stealing gum from the bodega at the corner of Dallas corridor and Nu Ren Jie. Getting violently sick in the bathrooms at the Alamo Mall Toll Plaza. A thousand things like them probably happened every day. The only thing that made Alex’s experiences different at all was that they were his.
+      He didn’t recognize for a while what was making him uncomfortable. Like the difference between thrust and planetary gravity, the emptiness
+D, [2018-03-01T17:34:03.796241 #6569] DEBUG -- : s of the corridors was almost too subtle to notice at first. Even as Min drove deeper into the neighborhood, it was the lights he noticed, and then the locks. All along the corridors, scattered like a handful of thrown sand, rooms and businesses were closed, the windows dark. That in itself didn’t mean much, but Alex noticed first one, then a few, then – like flowers in a meadow – a sudden spread of the clunky external locks that landlords and security put on doors when the units weren’t in use. He kept up his end of the banter with his cousin, but he started counting as they drove. In the next hundred doors – homes, businesses, maintenance closets, schools – twenty-one weren’t in use.
+      As Min pulled the ca
+D, [2018-03-01T17:34:06.167756 #6569] DEBUG -- : art to a halt at her own doorway, he mentioned it.
+      “Yup,” she said with a lightness that seemed forced. “Ghost world.”
+      
+         
+        
+          
+        
+         
+      
+      Somewhere in the years he’d been gone, Talissa had moved. The old rooms they’d had together were in Ballard, tucked in between the naval station and the old water processing plant. According to the local directories, she was in Galveston Shallow now. It wasn’t the neighborhood he’d imagined for her, but things changed. Maybe she’d come into money. He hoped so. Anything that had made her life better, he was in favor of.
+      The corridors of Galveston Shallow were wide. Half the light came down shafts from the surface, th
+D, [2018-03-01T17:34:08.684613 #6569] DEBUG -- : he actual light of the sun strung through a series of transparent shielding to keep the radiation to a minimum. The wide, sloping ceilings gave the place a sense of being natural, almost organic, and the smell of the mechanical air recyclers was nearly hidden by the rich, loamy scents of growing plants. Wide swaths of greenery filled the common areas with devil’s ivy and snake plant. The sorts of things that cranked out a lot of oxygen. The moisture in the air was strange and soothing. This, Alex realized, was the dream of Mars made real, if small. The terraforming project would make the whole planet like this someday, if it worked. Flora and fauna and air and water. Someday, centuries after he was gone, people 
+D, [2018-03-01T17:34:10.881663 #6569] DEBUG -- : art to a halt at her own doorway, he mentioned it.
+      “Yup,” she said with a lightness that seemed forced. “Ghost world.”
+      
+         
+        
+          
+        
+         
+      
+      Somewhere in the years he’d been gone, Talissa had moved. The old rooms they’d had together were in Ballard, tucked in between the naval station and the old water processing plant. According to the local directories, she was in Galveston Shallow now. It wasn’t the neighborhood he’d imagined for her, but things changed. Maybe she’d come into money. He hoped so. Anything that had made her life better, he was in favor of.
+      The corridors of Galveston Shallow were wide. Half the light came down shafts from the surface, th
+D, [2018-03-01T17:34:11.234671 #6569] DEBUG -- : s of the corridors was almost too subtle to notice at first. Even as Min drove deeper into the neighborhood, it was the lights he noticed, and then the locks. All along the corridors, scattered like a handful of thrown sand, rooms and businesses were closed, the windows dark. That in itself didn’t mean much, but Alex noticed first one, then a few, then – like flowers in a meadow – a sudden spread of the clunky external locks that landlords and security put on doors when the units weren’t in use. He kept up his end of the banter with his cousin, but he started counting as they drove. In the next hundred doors – homes, businesses, maintenance closets, schools – twenty-one weren’t in use.
+      As Min pulled the ca
+D, [2018-03-01T17:34:13.838336 #6569] DEBUG -- : ved with an older brother and sister on the other side of the canyon.
+      Driving along the corridors now, the memories flooded him. The curve of the corridor where the Lone Star Sharabaghar had held weekend dance and drinking contests. The time when he was nine that he’d been caught stealing gum from the bodega at the corner of Dallas corridor and Nu Ren Jie. Getting violently sick in the bathrooms at the Alamo Mall Toll Plaza. A thousand things like them probably happened every day. The only thing that made Alex’s experiences different at all was that they were his.
+      He didn’t recognize for a while what was making him uncomfortable. Like the difference between thrust and planetary gravity, the emptiness
+D, [2018-03-01T17:34:15.659554 #6569] DEBUG -- : ivorced, who was moving and where. A surprising number of Min’s siblings were on ships headed for the Ring, and though she didn’t say it outright, he had the sense that she was more interested in hearing about what he’d seen on the other side of it than in him.
+      They passed down a long access tunnel and then across one of the linking bridges to Bunker Hill. It was the neighborhood where Alex had grown up. His father’s ashes were in the crypt at the synagogue, his mother’s had been scattered over the Ophir Chasmata. The first girl he’d ever kissed had lived in rooms two corridors down from the place Min’s family was in now. His best friend growing up had been an ethnic Chinese boy named Johnny Zhou who’d liv
+D, [2018-03-01T17:34:17.457246 #6569] DEBUG -- : 
+      The look of embarrassment passed over Min’s face and vanished again in an eyeblink. “There’s a great noodle shop over on the south face. Garlic sauce that’ll knock you sideways. But Hassan packed it in about four years ago.”
+      “Ah. No, it’s all right. The thing about Hassan’s wasn’t that they were good.”
+      “Well, now that’s truth.”
+      “It’s just that they were his.”
+      The cart was a common electric, wider and tougher than the ones they used on stations. The tires were clear polymer that wouldn’t streak the floors of the corridors. Alex slid into the passenger’s seat, Min taking the controls. They talked about small, domestic things – who in the family was getting married, who was getting di
+D, [2018-03-01T17:34:21.644102 #6569] DEBUG -- : le girl he’d known once.
+      “Hey there, podner,” she said, the Mariner drawl probably half a degree thicker than it normally was. “What brings you round these parts?”
+      “More sentiment than sense,” Alex said, opening his arms. They embraced for a moment.
+      “You got any luggage?” Min asked.
+      “Traveling light.”
+      “Fair enough. I’ve got a cart down at the front.”
+      Alex hoisted an eyebrow. “You didn’t need to do that.”
+      “They’re cheaper than they used to be. The kids aren’t back from lower U for another four hours. You got anything you want to do before we’ve got them underfoot?”
+      “The only two things I’ve been looking forward to were seeing people and a bowl of Hassan’s noodles.”
+
+D, [2018-03-01T17:34:22.989067 #6569] DEBUG -- : r pleasure?”
+      “Let’s call it not-business,” Alex said.
+      The processor stroked the screen of his terminal, nodded toward the camera. As the system confirmed that he was who he claimed to be, Alex wondered why he’d said that. He hadn’t said that Tali was a shrew, he hadn’t insulted her, but he’d leaned on the assumption for a quick joke. He felt like she deserved better from him. Probably she did.
+      “’Joy your stay,” the processing man said, and Alex was free to enter the world he’d left.
+      His cousin Min stood in the waiting area. She was ten years younger than him, the last vestiges of youth falling from her and the first comfortable heft of middle age creeping in. Her smile belonged to a littl
+D, [2018-03-01T17:34:23.556987 #6569] DEBUG -- : again. Not in their lifetimes or their children’s, but one day. Alex waited in the customs queue, looking up. The pull of the planet, only about one-third g, felt strange. No matter what the math said, thrust gravity felt different than being down a well. Between the magnificence of the canyons and the eeriness of his weight, Alex felt the anxiety growing in his chest.
+      He was here. He was home.
+      The man processing the arriving travelers wore a thick mustache, white with a tinge of red. His eyes were bloodshot and his expression glum.
+      “Business or pleasure?”
+      “Neither one,” Alex drawled, “I’m here to see the ex-wife.”
+      The man gave a quick smile. “That going to be a business meeting, or
+D, [2018-03-01T17:34:24.050966 #6569] DEBUG -- : dual purposes of blocking radiation and providing a view that would impress with its scale. The canyons ran to the east, rugged and craggy and beautiful. Lights glittered from the canyon’s sides where the neighborhoods impinged out from the rock, the homes of the insanely wealthy trading the safety of deep stone for the status of an actual exterior window. A transport flier passed, hugging low to the ground where the relatively thick air gave its gossamer wings a little more purchase.
+      Once upon a time, the data said, Mars had been the home of its own biosphere. Rain had fallen here. Rivers had flowed. Not, perhaps, in the geologic eyeblink of human history, but once. And would, the terraformers promised, a
+D, [2018-03-01T17:37:29.708694 #6569] DEBUG -- : again. Not in their lifetimes or their children’s, but one day. Alex waited in the customs queue, looking up. The pull of the planet, only about one-third g, felt strange. No matter what the math said, thrust gravity felt different than being down a well. Between the magnificence of the canyons and the eeriness of his weight, Alex felt the anxiety growing in his chest.
+      He was here. He was home.
+      The man processing the arriving travelers wore a thick mustache, white with a tinge of red. His eyes were bloodshot and his expression glum.
+      “Business or pleasure?”
+      “Neither one,” Alex drawled, “I’m here to see the ex-wife.”
+      The man gave a quick smile. “That going to be a business meeting, or
+D, [2018-03-01T17:37:30.438106 #6569] DEBUG -- : r pleasure?”
+      “Let’s call it not-business,” Alex said.
+      The processor stroked the screen of his terminal, nodded toward the camera. As the system confirmed that he was who he claimed to be, Alex wondered why he’d said that. He hadn’t said that Tali was a shrew, he hadn’t insulted her, but he’d leaned on the assumption for a quick joke. He felt like she deserved better from him. Probably she did.
+      “’Joy your stay,” the processing man said, and Alex was free to enter the world he’d left.
+      His cousin Min stood in the waiting area. She was ten years younger than him, the last vestiges of youth falling from her and the first comfortable heft of middle age creeping in. Her smile belonged to a littl
+D, [2018-03-01T17:47:52.107377 #6710] DEBUG -- : r pleasure?”
+      “Let’s call it not-business,” Alex said.
+      The processor stroked the screen of his terminal, nodded toward the camera. As the system confirmed that he was who he claimed to be, Alex wondered why he’d said that. He hadn’t said that Tali was a shrew, he hadn’t insulted her, but he’d leaned on the assumption for a quick joke. He felt like she deserved better from him. Probably she did.
+      “’Joy your stay,” the processing man said, and Alex was free to enter the world he’d left.
+      His cousin Min stood in the waiting area. She was ten years younger than him, the last vestiges of youth falling from her and the first comfortable heft of middle age creeping in. Her smile belonged to a littl
+D, [2018-03-01T17:48:01.359526 #6710] DEBUG -- : le girl he’d known once.
+      “Hey there, podner,” she said, the Mariner drawl probably half a degree thicker than it normally was. “What brings you round these parts?”
+      “More sentiment than sense,” Alex said, opening his arms. They embraced for a moment.
+      “You got any luggage?” Min asked.
+      “Traveling light.”
+      “Fair enough. I’ve got a cart down at the front.”
+      Alex hoisted an eyebrow. “You didn’t need to do that.”
+      “They’re cheaper than they used to be. The kids aren’t back from lower U for another four hours. You got anything you want to do before we’ve got them underfoot?”
+      “The only two things I’ve been looking forward to were seeing people and a bowl of Hassan’s noodles.”
+
+D, [2018-03-01T17:48:13.309334 #6710] DEBUG -- : 
+      The look of embarrassment passed over Min’s face and vanished again in an eyeblink. “There’s a great noodle shop over on the south face. Garlic sauce that’ll knock you sideways. But Hassan packed it in about four years ago.”
+      “Ah. No, it’s all right. The thing about Hassan’s wasn’t that they were good.”
+      “Well, now that’s truth.”
+      “It’s just that they were his.”
+      The cart was a common electric, wider and tougher than the ones they used on stations. The tires were clear polymer that wouldn’t streak the floors of the corridors. Alex slid into the passenger’s seat, Min taking the controls. They talked about small, domestic things – who in the family was getting married, who was getting di
+D, [2018-03-01T17:48:18.646245 #6710] DEBUG -- : ivorced, who was moving and where. A surprising number of Min’s siblings were on ships headed for the Ring, and though she didn’t say it outright, he had the sense that she was more interested in hearing about what he’d seen on the other side of it than in him.
+      They passed down a long access tunnel and then across one of the linking bridges to Bunker Hill. It was the neighborhood where Alex had grown up. His father’s ashes were in the crypt at the synagogue, his mother’s had been scattered over the Ophir Chasmata. The first girl he’d ever kissed had lived in rooms two corridors down from the place Min’s family was in now. His best friend growing up had been an ethnic Chinese boy named Johnny Zhou who’d liv
+D, [2018-03-01T17:48:21.575891 #6710] DEBUG -- : ved with an older brother and sister on the other side of the canyon.
+      Driving along the corridors now, the memories flooded him. The curve of the corridor where the Lone Star Sharabaghar had held weekend dance and drinking contests. The time when he was nine that he’d been caught stealing gum from the bodega at the corner of Dallas corridor and Nu Ren Jie. Getting violently sick in the bathrooms at the Alamo Mall Toll Plaza. A thousand things like them probably happened every day. The only thing that made Alex’s experiences different at all was that they were his.
+      He didn’t recognize for a while what was making him uncomfortable. Like the difference between thrust and planetary gravity, the emptiness
+D, [2018-03-01T17:48:25.879411 #6710] DEBUG -- : s of the corridors was almost too subtle to notice at first. Even as Min drove deeper into the neighborhood, it was the lights he noticed, and then the locks. All along the corridors, scattered like a handful of thrown sand, rooms and businesses were closed, the windows dark. That in itself didn’t mean much, but Alex noticed first one, then a few, then – like flowers in a meadow – a sudden spread of the clunky external locks that landlords and security put on doors when the units weren’t in use. He kept up his end of the banter with his cousin, but he started counting as they drove. In the next hundred doors – homes, businesses, maintenance closets, schools – twenty-one weren’t in use.
+      As Min pulled the ca
+D, [2018-03-01T17:49:04.584147 #6760] DEBUG -- : s of the corridors was almost too subtle to notice at first. Even as Min drove deeper into the neighborhood, it was the lights he noticed, and then the locks. All along the corridors, scattered like a handful of thrown sand, rooms and businesses were closed, the windows dark. That in itself didn’t mean much, but Alex noticed first one, then a few, then – like flowers in a meadow – a sudden spread of the clunky external locks that landlords and security put on doors when the units weren’t in use. He kept up his end of the banter with his cousin, but he started counting as they drove. In the next hundred doors – homes, businesses, maintenance closets, schools – twenty-one weren’t in use.
+      As Min pulled the ca
+D, [2018-03-01T17:49:06.582555 #6760] DEBUG -- : art to a halt at her own doorway, he mentioned it.
+      “Yup,” she said with a lightness that seemed forced. “Ghost world.”
+      
+         
+        
+          
+        
+         
+      
+      Somewhere in the years he’d been gone, Talissa had moved. The old rooms they’d had together were in Ballard, tucked in between the naval station and the old water processing plant. According to the local directories, she was in Galveston Shallow now. It wasn’t the neighborhood he’d imagined for her, but things changed. Maybe she’d come into money. He hoped so. Anything that had made her life better, he was in favor of.
+      The corridors of Galveston Shallow were wide. Half the light came down shafts from the surface, th
+D, [2018-03-01T17:49:07.623051 #6760] DEBUG -- : he actual light of the sun strung through a series of transparent shielding to keep the radiation to a minimum. The wide, sloping ceilings gave the place a sense of being natural, almost organic, and the smell of the mechanical air recyclers was nearly hidden by the rich, loamy scents of growing plants. Wide swaths of greenery filled the common areas with devil’s ivy and snake plant. The sorts of things that cranked out a lot of oxygen. The moisture in the air was strange and soothing. This, Alex realized, was the dream of Mars made real, if small. The terraforming project would make the whole planet like this someday, if it worked. Flora and fauna and air and water. Someday, centuries after he was gone, people 
+D, [2018-03-01T17:49:08.075389 #6760] DEBUG -- :  might walk on the surface of Mars, surrounded by plants like these. Might feel the real sun against their skins.
+      He was distracting himself. He checked his position on his hand terminal against Tali’s new address. His heart was going faster than usual and he wasn’t sure what to do with his hands. He wondered what she’d say, how she’d look at him. Anger or joy would both be justified. Still, he hoped for joy.
+      His plan – find the place, gather himself, and ring the bell – failed because as soon as he turned the last curve to her rooms, he saw her. She was kneeling in among the plants in the common space, a trowel in one hand. She wore thick canvas work pants smeared with soil and a pale brown shirt wi
+D, [2018-03-01T17:49:08.372156 #6760] DEBUG -- : ith a wealth of pockets and loops for gardener’s tools, most of them empty. Her hair was a rich brown, so free of gray it had to be dyed. Her face was wider, thicker at the cheeks. Time had been kind to her. She wasn’t beautiful. Maybe she’d never been beautiful, but she was handsome and she was Talissa.
+      Alex felt a smile twitch at his lips, born more from anxiety than pleasure. He pushed his hands into his pockets and ambled over, trying to seem casual. Tali looked up from her work, then down. Her shoulders tensed and she looked up again, staring in his direction. He lifted a hand, palm out.
+      “Alex?” she said as he reached the edge of the garden space.
+      “Hey, Tali,” he said.
+      When she spoke
+D, [2018-03-01T17:49:09.082924 #6760] DEBUG -- :  might walk on the surface of Mars, surrounded by plants like these. Might feel the real sun against their skins.
+      He was distracting himself. He checked his position on his hand terminal against Tali’s new address. His heart was going faster than usual and he wasn’t sure what to do with his hands. He wondered what she’d say, how she’d look at him. Anger or joy would both be justified. Still, he hoped for joy.
+      His plan – find the place, gather himself, and ring the bell – failed because as soon as he turned the last curve to her rooms, he saw her. She was kneeling in among the plants in the common space, a trowel in one hand. She wore thick canvas work pants smeared with soil and a pale brown shirt wi
+D, [2018-03-01T17:49:10.881841 #6760] DEBUG -- : he actual light of the sun strung through a series of transparent shielding to keep the radiation to a minimum. The wide, sloping ceilings gave the place a sense of being natural, almost organic, and the smell of the mechanical air recyclers was nearly hidden by the rich, loamy scents of growing plants. Wide swaths of greenery filled the common areas with devil’s ivy and snake plant. The sorts of things that cranked out a lot of oxygen. The moisture in the air was strange and soothing. This, Alex realized, was the dream of Mars made real, if small. The terraforming project would make the whole planet like this someday, if it worked. Flora and fauna and air and water. Someday, centuries after he was gone, people 
+D, [2018-03-01T17:49:11.361906 #6760] DEBUG -- : art to a halt at her own doorway, he mentioned it.
+      “Yup,” she said with a lightness that seemed forced. “Ghost world.”
+      
+         
+        
+          
+        
+         
+      
+      Somewhere in the years he’d been gone, Talissa had moved. The old rooms they’d had together were in Ballard, tucked in between the naval station and the old water processing plant. According to the local directories, she was in Galveston Shallow now. It wasn’t the neighborhood he’d imagined for her, but things changed. Maybe she’d come into money. He hoped so. Anything that had made her life better, he was in favor of.
+      The corridors of Galveston Shallow were wide. Half the light came down shafts from the surface, th
+D, [2018-03-01T17:49:12.134714 #6760] DEBUG -- : s of the corridors was almost too subtle to notice at first. Even as Min drove deeper into the neighborhood, it was the lights he noticed, and then the locks. All along the corridors, scattered like a handful of thrown sand, rooms and businesses were closed, the windows dark. That in itself didn’t mean much, but Alex noticed first one, then a few, then – like flowers in a meadow – a sudden spread of the clunky external locks that landlords and security put on doors when the units weren’t in use. He kept up his end of the banter with his cousin, but he started counting as they drove. In the next hundred doors – homes, businesses, maintenance closets, schools – twenty-one weren’t in use.
+      As Min pulled the ca
+D, [2018-03-01T17:49:12.555760 #6760] DEBUG -- : ved with an older brother and sister on the other side of the canyon.
+      Driving along the corridors now, the memories flooded him. The curve of the corridor where the Lone Star Sharabaghar had held weekend dance and drinking contests. The time when he was nine that he’d been caught stealing gum from the bodega at the corner of Dallas corridor and Nu Ren Jie. Getting violently sick in the bathrooms at the Alamo Mall Toll Plaza. A thousand things like them probably happened every day. The only thing that made Alex’s experiences different at all was that they were his.
+      He didn’t recognize for a while what was making him uncomfortable. Like the difference between thrust and planetary gravity, the emptiness
+D, [2018-03-01T17:49:12.877837 #6760] DEBUG -- : ivorced, who was moving and where. A surprising number of Min’s siblings were on ships headed for the Ring, and though she didn’t say it outright, he had the sense that she was more interested in hearing about what he’d seen on the other side of it than in him.
+      They passed down a long access tunnel and then across one of the linking bridges to Bunker Hill. It was the neighborhood where Alex had grown up. His father’s ashes were in the crypt at the synagogue, his mother’s had been scattered over the Ophir Chasmata. The first girl he’d ever kissed had lived in rooms two corridors down from the place Min’s family was in now. His best friend growing up had been an ethnic Chinese boy named Johnny Zhou who’d liv
+D, [2018-03-01T17:49:13.215785 #6760] DEBUG -- : 
+      The look of embarrassment passed over Min’s face and vanished again in an eyeblink. “There’s a great noodle shop over on the south face. Garlic sauce that’ll knock you sideways. But Hassan packed it in about four years ago.”
+      “Ah. No, it’s all right. The thing about Hassan’s wasn’t that they were good.”
+      “Well, now that’s truth.”
+      “It’s just that they were his.”
+      The cart was a common electric, wider and tougher than the ones they used on stations. The tires were clear polymer that wouldn’t streak the floors of the corridors. Alex slid into the passenger’s seat, Min taking the controls. They talked about small, domestic things – who in the family was getting married, who was getting di
+D, [2018-03-01T17:49:13.505831 #6760] DEBUG -- : le girl he’d known once.
+      “Hey there, podner,” she said, the Mariner drawl probably half a degree thicker than it normally was. “What brings you round these parts?”
+      “More sentiment than sense,” Alex said, opening his arms. They embraced for a moment.
+      “You got any luggage?” Min asked.
+      “Traveling light.”
+      “Fair enough. I’ve got a cart down at the front.”
+      Alex hoisted an eyebrow. “You didn’t need to do that.”
+      “They’re cheaper than they used to be. The kids aren’t back from lower U for another four hours. You got anything you want to do before we’ve got them underfoot?”
+      “The only two things I’ve been looking forward to were seeing people and a bowl of Hassan’s noodles.”
+
+D, [2018-03-01T17:49:13.759849 #6760] DEBUG -- : r pleasure?”
+      “Let’s call it not-business,” Alex said.
+      The processor stroked the screen of his terminal, nodded toward the camera. As the system confirmed that he was who he claimed to be, Alex wondered why he’d said that. He hadn’t said that Tali was a shrew, he hadn’t insulted her, but he’d leaned on the assumption for a quick joke. He felt like she deserved better from him. Probably she did.
+      “’Joy your stay,” the processing man said, and Alex was free to enter the world he’d left.
+      His cousin Min stood in the waiting area. She was ten years younger than him, the last vestiges of youth falling from her and the first comfortable heft of middle age creeping in. Her smile belonged to a littl
+D, [2018-03-01T17:49:14.055932 #6760] DEBUG -- : again. Not in their lifetimes or their children’s, but one day. Alex waited in the customs queue, looking up. The pull of the planet, only about one-third g, felt strange. No matter what the math said, thrust gravity felt different than being down a well. Between the magnificence of the canyons and the eeriness of his weight, Alex felt the anxiety growing in his chest.
+      He was here. He was home.
+      The man processing the arriving travelers wore a thick mustache, white with a tinge of red. His eyes were bloodshot and his expression glum.
+      “Business or pleasure?”
+      “Neither one,” Alex drawled, “I’m here to see the ex-wife.”
+      The man gave a quick smile. “That going to be a business meeting, or
+D, [2018-03-01T17:49:14.289716 #6760] DEBUG -- : dual purposes of blocking radiation and providing a view that would impress with its scale. The canyons ran to the east, rugged and craggy and beautiful. Lights glittered from the canyon’s sides where the neighborhoods impinged out from the rock, the homes of the insanely wealthy trading the safety of deep stone for the status of an actual exterior window. A transport flier passed, hugging low to the ground where the relatively thick air gave its gossamer wings a little more purchase.
+      Once upon a time, the data said, Mars had been the home of its own biosphere. Rain had fallen here. Rivers had flowed. Not, perhaps, in the geologic eyeblink of human history, but once. And would, the terraformers promised, a
+D, [2018-03-01T17:49:14.485439 #6760] DEBUG -- : th, but it could still generate a lot of heat. Half-awake, he ran through the math of landing, the numbers growing more and more surreal as the light sleep washed over him. If something had gone wrong – a change in the burn, an impact shudder passing through the ship, a shift in the couch’s gimbals – he’d have been awake and alert in an instant. But nothing happened, so nothing happened. As homecomings went, it wasn’t bad.
+      The port proper was at the base of the valley. Six and a half kilometers of stone rose up from the pads, the strip of sky above them hardly more than thirty degrees from rim to rim. The processing station was one of the oldest buildings in Mariner, its massive clear dome built with the d
+D, [2018-03-01T17:49:14.678918 #6760] DEBUG -- : at their sides. The braking burn would commence in thirty seconds, and reach a maximum burn of three gs. The automated concern made that sound like a lot, but he supposed some folks would be impressed.
+      He put his hand terminal in the locker, cycled it closed, and waited for the braking rockets to push him back into his couch. In one of the other compartments, a baby was crying. The countdown tones began, a music of converging intervals distinguishable in any language. When the tones resolved into a gentle and reassuring chord, the burn kicked in, pressing him into the gel. He dozed as the ship rattled and shook. The atmosphere of Mars wasn’t thick enough to use it for aerobraking on their steep descent pat
+D, [2018-03-01T17:49:14.846605 #6760] DEBUG -- : n colonists dug deep into the dry soil there, eking out a thin, perilous existence, pushing the limits of human habitation and ability. His family had been one of them. He’d been an only child to older parents. He had no nieces or nephews, but the variety of Kamal cousins in the Valley were enough that he could go from one guest room to another for months without wearing out his welcome at any one of them.
+      The drop ship shuddered, the atmosphere outside thick enough now to cause turbulence. The acceleration alarm chimed pleasantly and a recorded voice instructed him and the other passengers to check the straps on their gel couches and put any objects more than two kilos into the lockers set into the wall a
+D, [2018-03-01T17:49:15.034947 #6760] DEBUG -- :  that people called the Deimos Ring. The drop ship didn’t have screens, but from here he’d have been able to see the massive steel of Hecate Base spilling up the side of Olympus Mons. He’d been a boot there after he joined the Navy.
+      Mariner Valley had been one of the first large-scale settlements on Mars. Five linked neighborhoods that burrowed into the sides of the vast canyons, huddling under the stone and regolith. The network of bridges and tubes that linked them were called Haizhe because the westernmost bridge structures and the trailing tubes made a figure like a cartoon jellyfish. The later high-speed line to Londres Nova was a spear in the jellyfish’s crown.
+      Three waves of Chinese and Indian
+D, [2018-03-01T17:49:15.213687 #6760] DEBUG -- : 
+  
+    Chapter Six: Alex
+    
+    
+  
+  
+    
+      
+        
+          
+            
+              
+              Chapter Six: Alex
+            
+          
+        
+      
+      “Hey, Bobbie,” Alex said to his hand terminal’s camera. “I’m gonna be downstairs in Mariner for a week or two, stayin’ with a cousin. I was wondering if you wanted to get lunch while I’m in town.”
+      He ended the message and sent it, put his hand terminal back in his pocket, fidgeted, took it out again. He started paging back through his contacts, looking for another distraction. With every minute, he came closer to the thin exosphere of home. They were already inside the orbit of Phobos and the now invisibly thin scatter of gravel 
+D, [2018-03-01T17:49:48.790394 #6793] DEBUG -- : 
+  
+    Chapter Six: Alex
+    
+    
+  
+  
+    
+      
+        
+          
+            
+              
+              Chapter Six: Alex
+            
+          
+        
+      
+      “Hey, Bobbie,” Alex said to his hand terminal’s camera. “I’m gonna be downstairs in Mariner for a week or two, stayin’ with a cousin. I was wondering if you wanted to get lunch while I’m in town.”
+      He ended the message and sent it, put his hand terminal back in his pocket, fidgeted, took it out again. He started paging back through his contacts, looking for another distraction. With every minute, he came closer to the thin exosphere of home. They were already inside the orbit of Phobos and the now invisibly thin scatter of gravel 
+D, [2018-03-01T17:49:49.830493 #6793] DEBUG -- :  that people called the Deimos Ring. The drop ship didn’t have screens, but from here he’d have been able to see the massive steel of Hecate Base spilling up the side of Olympus Mons. He’d been a boot there after he joined the Navy.
+      Mariner Valley had been one of the first large-scale settlements on Mars. Five linked neighborhoods that burrowed into the sides of the vast canyons, huddling under the stone and regolith. The network of bridges and tubes that linked them were called Haizhe because the westernmost bridge structures and the trailing tubes made a figure like a cartoon jellyfish. The later high-speed line to Londres Nova was a spear in the jellyfish’s crown.
+      Three waves of Chinese and Indian
+D, [2018-03-01T17:49:50.727521 #6793] DEBUG -- : n colonists dug deep into the dry soil there, eking out a thin, perilous existence, pushing the limits of human habitation and ability. His family had been one of them. He’d been an only child to older parents. He had no nieces or nephews, but the variety of Kamal cousins in the Valley were enough that he could go from one guest room to another for months without wearing out his welcome at any one of them.
+      The drop ship shuddered, the atmosphere outside thick enough now to cause turbulence. The acceleration alarm chimed pleasantly and a recorded voice instructed him and the other passengers to check the straps on their gel couches and put any objects more than two kilos into the lockers set into the wall a
+D, [2018-03-01T17:49:52.064620 #6793] DEBUG -- : at their sides. The braking burn would commence in thirty seconds, and reach a maximum burn of three gs. The automated concern made that sound like a lot, but he supposed some folks would be impressed.
+      He put his hand terminal in the locker, cycled it closed, and waited for the braking rockets to push him back into his couch. In one of the other compartments, a baby was crying. The countdown tones began, a music of converging intervals distinguishable in any language. When the tones resolved into a gentle and reassuring chord, the burn kicked in, pressing him into the gel. He dozed as the ship rattled and shook. The atmosphere of Mars wasn’t thick enough to use it for aerobraking on their steep descent pat
+D, [2018-03-01T17:49:52.687023 #6793] DEBUG -- : th, but it could still generate a lot of heat. Half-awake, he ran through the math of landing, the numbers growing more and more surreal as the light sleep washed over him. If something had gone wrong – a change in the burn, an impact shudder passing through the ship, a shift in the couch’s gimbals – he’d have been awake and alert in an instant. But nothing happened, so nothing happened. As homecomings went, it wasn’t bad.
+      The port proper was at the base of the valley. Six and a half kilometers of stone rose up from the pads, the strip of sky above them hardly more than thirty degrees from rim to rim. The processing station was one of the oldest buildings in Mariner, its massive clear dome built with the d
+D, [2018-03-01T17:49:53.327462 #6793] DEBUG -- : dual purposes of blocking radiation and providing a view that would impress with its scale. The canyons ran to the east, rugged and craggy and beautiful. Lights glittered from the canyon’s sides where the neighborhoods impinged out from the rock, the homes of the insanely wealthy trading the safety of deep stone for the status of an actual exterior window. A transport flier passed, hugging low to the ground where the relatively thick air gave its gossamer wings a little more purchase.
+      Once upon a time, the data said, Mars had been the home of its own biosphere. Rain had fallen here. Rivers had flowed. Not, perhaps, in the geologic eyeblink of human history, but once. And would, the terraformers promised, a
+D, [2018-03-01T17:49:53.763097 #6793] DEBUG -- : again. Not in their lifetimes or their children’s, but one day. Alex waited in the customs queue, looking up. The pull of the planet, only about one-third g, felt strange. No matter what the math said, thrust gravity felt different than being down a well. Between the magnificence of the canyons and the eeriness of his weight, Alex felt the anxiety growing in his chest.
+      He was here. He was home.
+      The man processing the arriving travelers wore a thick mustache, white with a tinge of red. His eyes were bloodshot and his expression glum.
+      “Business or pleasure?”
+      “Neither one,” Alex drawled, “I’m here to see the ex-wife.”
+      The man gave a quick smile. “That going to be a business meeting, or
+D, [2018-03-01T17:49:54.381995 #6793] DEBUG -- : r pleasure?”
+      “Let’s call it not-business,” Alex said.
+      The processor stroked the screen of his terminal, nodded toward the camera. As the system confirmed that he was who he claimed to be, Alex wondered why he’d said that. He hadn’t said that Tali was a shrew, he hadn’t insulted her, but he’d leaned on the assumption for a quick joke. He felt like she deserved better from him. Probably she did.
+      “’Joy your stay,” the processing man said, and Alex was free to enter the world he’d left.
+      His cousin Min stood in the waiting area. She was ten years younger than him, the last vestiges of youth falling from her and the first comfortable heft of middle age creeping in. Her smile belonged to a littl
+D, [2018-03-01T17:49:55.474108 #6793] DEBUG -- : le girl he’d known once.
+      “Hey there, podner,” she said, the Mariner drawl probably half a degree thicker than it normally was. “What brings you round these parts?”
+      “More sentiment than sense,” Alex said, opening his arms. They embraced for a moment.
+      “You got any luggage?” Min asked.
+      “Traveling light.”
+      “Fair enough. I’ve got a cart down at the front.”
+      Alex hoisted an eyebrow. “You didn’t need to do that.”
+      “They’re cheaper than they used to be. The kids aren’t back from lower U for another four hours. You got anything you want to do before we’ve got them underfoot?”
+      “The only two things I’ve been looking forward to were seeing people and a bowl of Hassan’s noodles.”
+
+D, [2018-03-01T17:49:56.606928 #6793] DEBUG -- : 
+      The look of embarrassment passed over Min’s face and vanished again in an eyeblink. “There’s a great noodle shop over on the south face. Garlic sauce that’ll knock you sideways. But Hassan packed it in about four years ago.”
+      “Ah. No, it’s all right. The thing about Hassan’s wasn’t that they were good.”
+      “Well, now that’s truth.”
+      “It’s just that they were his.”
+      The cart was a common electric, wider and tougher than the ones they used on stations. The tires were clear polymer that wouldn’t streak the floors of the corridors. Alex slid into the passenger’s seat, Min taking the controls. They talked about small, domestic things – who in the family was getting married, who was getting di
+D, [2018-03-01T17:49:57.876929 #6793] DEBUG -- : ivorced, who was moving and where. A surprising number of Min’s siblings were on ships headed for the Ring, and though she didn’t say it outright, he had the sense that she was more interested in hearing about what he’d seen on the other side of it than in him.
+      They passed down a long access tunnel and then across one of the linking bridges to Bunker Hill. It was the neighborhood where Alex had grown up. His father’s ashes were in the crypt at the synagogue, his mother’s had been scattered over the Ophir Chasmata. The first girl he’d ever kissed had lived in rooms two corridors down from the place Min’s family was in now. His best friend growing up had been an ethnic Chinese boy named Johnny Zhou who’d liv
+D, [2018-03-01T17:50:36.908737 #6834] DEBUG -- : ivorced, who was moving and where. A surprising number of Min’s siblings were on ships headed for the Ring, and though she didn’t say it outright, he had the sense that she was more interested in hearing about what he’d seen on the other side of it than in him.
+      They passed down a long access tunnel and then across one of the linking bridges to Bunker Hill. It was the neighborhood where Alex had grown up. His father’s ashes were in the crypt at the synagogue, his mother’s had been scattered over the Ophir Chasmata. The first girl he’d ever kissed had lived in rooms two corridors down from the place Min’s family was in now. His best friend growing up had been an ethnic Chinese boy named Johnny Zhou who’d liv
+D, [2018-03-01T17:50:59.301521 #6870] DEBUG -- : ivorced, who was moving and where. A surprising number of Min’s siblings were on ships headed for the Ring, and though she didn’t say it outright, he had the sense that she was more interested in hearing about what he’d seen on the other side of it than in him.
+      They passed down a long access tunnel and then across one of the linking bridges to Bunker Hill. It was the neighborhood where Alex had grown up. His father’s ashes were in the crypt at the synagogue, his mother’s had been scattered over the Ophir Chasmata. The first girl he’d ever kissed had lived in rooms two corridors down from the place Min’s family was in now. His best friend growing up had been an ethnic Chinese boy named Johnny Zhou who’d liv
+D, [2018-03-01T17:51:07.143362 #6870] DEBUG -- : ved with an older brother and sister on the other side of the canyon.
+      Driving along the corridors now, the memories flooded him. The curve of the corridor where the Lone Star Sharabaghar had held weekend dance and drinking contests. The time when he was nine that he’d been caught stealing gum from the bodega at the corner of Dallas corridor and Nu Ren Jie. Getting violently sick in the bathrooms at the Alamo Mall Toll Plaza. A thousand things like them probably happened every day. The only thing that made Alex’s experiences different at all was that they were his.
+      He didn’t recognize for a while what was making him uncomfortable. Like the difference between thrust and planetary gravity, the emptiness
+D, [2018-03-01T17:51:09.163386 #6870] DEBUG -- : s of the corridors was almost too subtle to notice at first. Even as Min drove deeper into the neighborhood, it was the lights he noticed, and then the locks. All along the corridors, scattered like a handful of thrown sand, rooms and businesses were closed, the windows dark. That in itself didn’t mean much, but Alex noticed first one, then a few, then – like flowers in a meadow – a sudden spread of the clunky external locks that landlords and security put on doors when the units weren’t in use. He kept up his end of the banter with his cousin, but he started counting as they drove. In the next hundred doors – homes, businesses, maintenance closets, schools – twenty-one weren’t in use.
+      As Min pulled the ca
+D, [2018-03-01T17:51:11.090351 #6870] DEBUG -- : art to a halt at her own doorway, he mentioned it.
+      “Yup,” she said with a lightness that seemed forced. “Ghost world.”
+      
+         
+        
+          
+        
+         
+      
+      Somewhere in the years he’d been gone, Talissa had moved. The old rooms they’d had together were in Ballard, tucked in between the naval station and the old water processing plant. According to the local directories, she was in Galveston Shallow now. It wasn’t the neighborhood he’d imagined for her, but things changed. Maybe she’d come into money. He hoped so. Anything that had made her life better, he was in favor of.
+      The corridors of Galveston Shallow were wide. Half the light came down shafts from the surface, th
+D, [2018-03-01T17:51:12.760406 #6870] DEBUG -- : he actual light of the sun strung through a series of transparent shielding to keep the radiation to a minimum. The wide, sloping ceilings gave the place a sense of being natural, almost organic, and the smell of the mechanical air recyclers was nearly hidden by the rich, loamy scents of growing plants. Wide swaths of greenery filled the common areas with devil’s ivy and snake plant. The sorts of things that cranked out a lot of oxygen. The moisture in the air was strange and soothing. This, Alex realized, was the dream of Mars made real, if small. The terraforming project would make the whole planet like this someday, if it worked. Flora and fauna and air and water. Someday, centuries after he was gone, people 
+D, [2018-03-01T17:51:13.543437 #6870] DEBUG -- :  might walk on the surface of Mars, surrounded by plants like these. Might feel the real sun against their skins.
+      He was distracting himself. He checked his position on his hand terminal against Tali’s new address. His heart was going faster than usual and he wasn’t sure what to do with his hands. He wondered what she’d say, how she’d look at him. Anger or joy would both be justified. Still, he hoped for joy.
+      His plan – find the place, gather himself, and ring the bell – failed because as soon as he turned the last curve to her rooms, he saw her. She was kneeling in among the plants in the common space, a trowel in one hand. She wore thick canvas work pants smeared with soil and a pale brown shirt wi
+D, [2018-03-01T17:51:16.361192 #6870] DEBUG -- : ith a wealth of pockets and loops for gardener’s tools, most of them empty. Her hair was a rich brown, so free of gray it had to be dyed. Her face was wider, thicker at the cheeks. Time had been kind to her. She wasn’t beautiful. Maybe she’d never been beautiful, but she was handsome and she was Talissa.
+      Alex felt a smile twitch at his lips, born more from anxiety than pleasure. He pushed his hands into his pockets and ambled over, trying to seem casual. Tali looked up from her work, then down. Her shoulders tensed and she looked up again, staring in his direction. He lifted a hand, palm out.
+      “Alex?” she said as he reached the edge of the garden space.
+      “Hey, Tali,” he said.
+      When she spoke
+D, [2018-03-01T17:51:18.094986 #6870] DEBUG -- : e, the only thing in her voice was a flat disbelief. “What are you doing here?”
+      “I had some downtime while my ship’s getting fixed up. Thought I’d come back to the old stompin’ ground. Touch base with folks. You know.”
+      Talissa nodded, her mouth taking the uneven curl that meant she was thinking hard. Maybe he should have reached out with a message before he came. Only it had seemed to him this was a meeting that should be face-to-face.
+      “Well,” she said. “All right.”
+      “I don’t want to interrupt. But, maybe when you’re done, I could buy you a cup of tea?”
+      Tali rolled back onto her heels and tilted her head. “Alex, stop it. What are you doing here?”
+      “Nothing,” he said.
+      “No. 
+D, [2018-03-01T17:51:18.856945 #6870] DEBUG -- :  Something. You’re here for something.”
+      “Really, I’m not. I just —”
+      “Don’t,” she said, conversationally. “Don’t bullshit me. No one just shows up at their ex-wife’s house out of the blue because they thought a cup of tea sounded nice.”
+      “Well, all right,” Alex said. “But I thought…”
+      Tali shook her head and turned back to digging through the black soil. “Thought what? That we’d get a drink together, talk about old times, get a little maudlin? Maybe fall into bed for nostalgia’s sake?”
+      “What? No. I’m not —”
+      “Please don’t make me be the bad guy here. I have a rich, full, complex life that you chose not to be a part of. I have a lot on my plate just now that I don’t actually want t
+D, [2018-03-01T17:51:21.137205 #6870] DEBUG -- : to share with you, and comforting the guy who walked out on me umpteen years ago because he’s… I don’t know, having his midlife crisis? It’s not my priority, and it’s not something that’s fair to expect of me.”
+      “Oh,” Alex said. His belly felt like he’d swallowed a tungsten slug. His face felt flushed. She sighed, looking up at him. Her expression wasn’t cruel. Wasn’t even unkind. Tired, maybe.
+      “I’m sorry,” she said. “We’re a couple people who used to know each other. At this point, we’re maybe even a little less than that.”
+      “I understand. I’m sorry.”
+      “I didn’t put you in this position. You put me in it. I was just working with my plants.”
+      “I know. I didn’t mean to discomfort you. No
+D, [2018-03-01T17:51:21.871988 #6870] DEBUG -- :  Something. You’re here for something.”
+      “Really, I’m not. I just —”
+      “Don’t,” she said, conversationally. “Don’t bullshit me. No one just shows up at their ex-wife’s house out of the blue because they thought a cup of tea sounded nice.”
+      “Well, all right,” Alex said. “But I thought…”
+      Tali shook her head and turned back to digging through the black soil. “Thought what? That we’d get a drink together, talk about old times, get a little maudlin? Maybe fall into bed for nostalgia’s sake?”
+      “What? No. I’m not —”
+      “Please don’t make me be the bad guy here. I have a rich, full, complex life that you chose not to be a part of. I have a lot on my plate just now that I don’t actually want t
+D, [2018-03-01T17:51:28.318988 #6870] DEBUG -- : to share with you, and comforting the guy who walked out on me umpteen years ago because he’s… I don’t know, having his midlife crisis? It’s not my priority, and it’s not something that’s fair to expect of me.”
+      “Oh,” Alex said. His belly felt like he’d swallowed a tungsten slug. His face felt flushed. She sighed, looking up at him. Her expression wasn’t cruel. Wasn’t even unkind. Tired, maybe.
+      “I’m sorry,” she said. “We’re a couple people who used to know each other. At this point, we’re maybe even a little less than that.”
+      “I understand. I’m sorry.”
+      “I didn’t put you in this position. You put me in it. I was just working with my plants.”
+      “I know. I didn’t mean to discomfort you. No
+D, [2018-03-01T17:51:30.074359 #6870] DEBUG -- : ot now, and not before.”
+      “Not before? Before, when you walked out on me?”
+      “It wasn’t what I meant to have happen, and it wasn’t about you or —”
+      She shook her head sharply, grimacing as she did.
+      “No. Not going to do this. Alex? We’re talking about the past. That’s the conversation I just said I don’t want to have. All right?”
+      “All right.”
+      “Okay.”
+      “Sorry if things are… rough.”
+      “I’ll be fine,” she said.
+      He lifted his hand again, the same gesture he’d made walking up to her, but with a different meaning now. He turned. He walked away. The humiliation was like a weight on his chest. The urge to turn back, to have one last look in case maybe she was looking at him 
+D, [2018-03-01T17:51:31.880717 #6870] DEBUG -- :  was almost too much to resist.
+      He resisted it.
+      She was right. It was why he’d appeared on her doorstep without warning. Because he’d known that if she said no, he had to respect that, and somewhere in the back of his mind, he’d thought that if they were there, breathing the same air, it would be harder for her to turn him away. And maybe it had been. Maybe what he’d done was actually make it worse for her.
+      The first bar he came to was named Los Compadres, and the air inside it smelled of hops and overheated cheese. The man behind the bar looked barely old enough to drink, his sallow skin set off by ruddy hair and a mustache that could generously be called aspirational. Alex took a high stool a
+D, [2018-03-01T17:51:32.425286 #6870] DEBUG -- : and ordered a whiskey.
+      “Little early in the day for celebration,” the barkeep said as he poured. “What’s the occasion?”
+      “It turns out,” Alex said, exaggerating his Mariner Valley drawl just a little for the effect, “that sometimes I’m an asshole.”
+      “Hard truth.”
+      “It is.”
+      “You expect drinking alone to improve that?”
+      “Nope. Just observing the traditions of alienated masculine pain.”
+      “Fair enough,” the barkeep said. “Want some food with it?”
+      “I’d look at a menu.”
+      Half an hour later, he was only halfway through the drink. The bar was starting to fill up, which meant maybe twenty people in a space that would have taken seventy. Ranchero music played from hidden spe
+D, [2018-03-01T17:51:33.058250 #6870] DEBUG -- : eakers. The thought of going back to his cousin’s and pretending to be cheerful was only a half a degree worse than continuing to sit in the bar, waiting for his self-pity to fade. He kept trying to think about what he could have said or done differently that would have made any difference. So far the best he’d come up with was Don’t walk out on your wife, which was about the same as saying Be someone else.
+      His hand terminal buzzed. He pulled it up. A written message tagged from Bobbie Draper. 
+      HEY, ALEX. SORRY IT TOOK SO LONG TO GET BACK TO YOU. THINGS ARE WEIRDLY BUSY. YES, IF YOU’RE IN TOWN, I’D LIKE TO MEET WITH YOU. MAY HAVE A FAVOR TO ASK, IF YOU’RE UP FOR IT. SWING BY ANYTIME. 
+      Her addre
+D, [2018-03-01T17:51:33.490189 #6870] DEBUG -- : ess was in Londres Nova. Alex tapped it, and the screen shifted to a map. He wasn’t far from the express tube. He could be out there by supper. He touched the bar top with his hand terminal, paid for the drink, and stretched. In the corridor, a cart had broken down, and half a dozen maintenance workers were clumped around it. A woman with skin the color of milk walking past did a subtle double take when Alex nodded. Wondering, he guessed, whether he was the pilot for James Holden. He walked on before she could ask the question.
+      Yeah. It would be good to see Bobbie.
+    
+  
+
+D, [2018-03-01T17:51:34.444668 #6870] DEBUG -- : 
+  
+    Chapter Seven: Amos
+    
+    
+  
+  
+    
+      
+        
+          
+            
+              
+              Chapter Seven: Amos
+            
+          
+        
+      
+      The spaceport had been built a kilometer outside Lovell City a century before. Now, it was the geographical heart of Luna’s largest metropolis, though you wouldn’t have been able to tell that from space. Luna boasted very few actual domes. The constant rain of micro-meteors turned a dome into a randomly firing atmosphere ejection port. So as the shuttle descended, the only visible signs of the city were the occasional surface access points and the spaceport itself. The docks weren’t the originals, but they were still damned old. Th
+D, [2018-03-01T17:51:34.651089 #6870] DEBUG -- : he decking had all been white once. Gray pathways marked where years of boots and carts had worn down tracks. The union office looked down over the long hall through pockmarked windows, and the air had the gunpowder stink of lunar dust.
+      The extortion boys showed up at the disembarking area in force to stare Amos down as he left the ship. He smiled and waved and kept Rico, Jianguo, and Wendy close to him until they were out of the long flight terminal.
+      “Hermano,” Rico said, shaking hands with Amos. “Where you headed to now?”
+      “Down the well,” Amos said. “You fellas take care of that little girl, right? And good luck with the new jobs.”
+      Jianguo hugged Wendy close. “We will. Xie xie usted ha 
+D, [2018-03-01T17:52:32.035347 #6911] DEBUG -- : he decking had all been white once. Gray pathways marked where years of boots and carts had worn down tracks. The union office looked down over the long hall through pockmarked windows, and the air had the gunpowder stink of lunar dust.
+      The extortion boys showed up at the disembarking area in force to stare Amos down as he left the ship. He smiled and waved and kept Rico, Jianguo, and Wendy close to him until they were out of the long flight terminal.
+      “Hermano,” Rico said, shaking hands with Amos. “Where you headed to now?”
+      “Down the well,” Amos said. “You fellas take care of that little girl, right? And good luck with the new jobs.”
+      Jianguo hugged Wendy close. “We will. Xie xie usted ha 
+D, [2018-03-01T17:52:52.989409 #6937] DEBUG -- : he decking had all been white once. Gray pathways marked where years of boots and carts had worn down tracks. The union office looked down over the long hall through pockmarked windows, and the air had the gunpowder stink of lunar dust.
+      The extortion boys showed up at the disembarking area in force to stare Amos down as he left the ship. He smiled and waved and kept Rico, Jianguo, and Wendy close to him until they were out of the long flight terminal.
+      “Hermano,” Rico said, shaking hands with Amos. “Where you headed to now?”
+      “Down the well,” Amos said. “You fellas take care of that little girl, right? And good luck with the new jobs.”
+      Jianguo hugged Wendy close. “We will. Xie xie usted ha 
+D, [2018-03-01T17:52:56.199169 #6937] DEBUG -- :  hecho.”
+      Rico and Jianguo stared at him like they expected something else, but Amos had nothing left to say so he turned and walked away toward the terminal for planetary drops. The waiting area was housed in a large false dome designed to impress the tourists. The whole thing was underground, but the massive chamber was covered floor to ceiling with ultra-high-definition video screens showing the outside view. The hills and craters of the lunar surface stretched off in all directions, but it was the blue-and-green half-circle hanging in the sky that drew the most attention. It was beautiful at this distance. The cities nothing but firefly twinkles on the dark side. Where the sun struck the Earth, almost n
+D, [2018-03-01T17:52:57.285071 #6937] DEBUG -- : nothing man had made was visible from the lunar orbit. The planet looked clean, unspoiled.
+      It was a pretty lie.
+      Seemed like a fact of the universe that the closer you got to anything, the worse it looked. Take the most beautiful person in the solar system, zoom in on them at the right magnification and they were an apocalyptic cratered landscape crawling with horrors. That’s what the Earth was. A shining jewel from space, up close a blasted landscape covered with mites living by devouring the dying.
+      “One ticket to New York,” he said to the automated kiosk.
+      
+         
+        
+          
+        
+         
+      
+      The drop to Earth was short enough that no one tried to run an extortio
+D, [2018-03-01T17:52:58.942099 #6937] DEBUG -- : on racket on him, so that was nice. The flight itself was bumpy and nauseating, so that was less nice. One thing about space: it might be a big radiation-filled vacuum that’d kill you in a heartbeat if you weren’t paying attention, but at least it never had turbulence. There weren’t any windows on the shuttle, but the front of the cabin had a big viewscreen showing the descent through the forward external cameras. New York grew from a gray smudge to a visible cityscape. The spaceport on the artificial land mass south of Staten Island went from a silver postage stamp to a vast network of landing pads and launching rails surrounded by the Atlantic Ocean just past the entrance to Lower New York Bay. Tiny toy ships 
+D, [2018-03-01T17:53:00.063417 #6937] DEBUG -- :  of suitable size for bobbing in a child’s bath grew into the vast solar-powered cargo ships that crawled back and forth across the oceans. Everything visible on the descent was clean and technologically sleek.
+      That was a lie too.
+      By the time the shuttle landed he was ready to get into the grunge of the city if only to see something that was honest about itself. When he stood up in the full gravity of Earth to walk off the shuttle, he wanted it to feel wrong, oppressive after all his years away. But the truth was that something deep in him, maybe down at the genetic level, rejoiced. His ancestors had spent a few billion years building all their internal structures around the constant of one g downwar
+D, [2018-03-01T17:53:01.223722 #6937] DEBUG -- : rd pull, and his organism breathed a sigh of relief at the amazing rightness of it.
+      “Thank you for flying with us,” a pleasantly nondescript face said from the video screen next to the exit. The voice was carefully crafted to have no specific regional dialect or obvious gender markers. “We hope to see you again soon.”
+      “Go fuck yourself,” Amos said to the screen with a smile.
+      “Thank you, sir,” the face replied, actually seeming to look him in the eye. “TransWorld Interplanetary takes your comments and suggestions seriously.”
+      A short tube ride from the landing pad to the spaceport visitors center later and he was in the customs line to enter New York City and officially walk on Earth soil f
+D, [2018-03-01T17:53:11.050824 #6937] DEBUG -- : for the first time in twenty-some years. The visitor center stank of too many bodies pressed too tightly together. But under it there was a faint, not-unpleasant odor of rotting seaweed and salt. The ocean, just outside, seeped into everything. An olfactory reminder to everyone passing through the Ellis Island of the space age that Earth was absolutely unique to the human race. The birthplace of everything. The salt water flowing in everyone’s veins first pulled from the same oceans right outside the building. The seas had been around longer than humans, had helped create them, and then when they were all dead, it’d take their water back without a thought.
+      That, at least, wasn’t a lie.
+      “Citizenship, 
+D, [2018-03-01T17:53:12.353292 #6937] DEBUG -- :  guild, or union docs,” the bored-looking man at the customs kiosk said. It appeared to be the only job left in the building not done by a robot. Computers, it seemed, could be programmed to do almost anything but sense when someone was up to no good. Amos had no doubt a full body scanner was looking him over, measuring his heart rate, his skin moisture levels, his respiration. But all of those things could be faked with drugs or training. The human behind the counter would be looking to see if he just seemed wrong.
+      Amos smiled at him. “Sure,” he said, then pulled up his UN citizenship records on his hand terminal and the customs officer’s computer grabbed them and compared them to the database. The office
+D, [2018-03-01T17:53:13.554590 #6937] DEBUG -- : er read his screen, his face betraying nothing. Amos hadn’t been home in almost three decades. He waited to be directed off to the additional security line for a more thorough search. It wouldn’t be the first unfamiliar finger up his ass.
+      “Okay,” the customs officer said. “Have a good one.”
+      “You do the same,” Amos replied, not able to fully keep the surprise off his face. The customs guy waved an impatient hand at him, telling him to move along. The person waiting behind him in line cleared their throat loudly.
+      Amos shrugged and moved across the yellow line that legally separated Earth from the rest of the universe.
+      “Amos Burton?” someone said. An older woman in an inexpensive gray suit. 
+D, [2018-03-01T17:53:22.095554 #6937] DEBUG -- :  It was the sort of thing mid-level bureaucrats and cops wore, so he wasn’t surprised when the next thing she said was, “You need to come with us now.”
+      Amos smiled at her and considered his options. Half a dozen other cops were converging on him in the tactical body armor high-risk entry teams wore. Three of them had tasers out, the other three semiautomatic handguns. Well, at least they were taking him seriously. That was sort of flattering.
+      Amos raised his hands over his head. “You got me, Sheriff. What are the charges?”
+      The plainclothes officer didn’t respond, and two members of the tactical team pulled his hands behind his back and cuffed him.
+      “I’m wondering,” Amos said, “because I ju
+D, [2018-03-01T17:53:55.438773 #6976] DEBUG -- :  It was the sort of thing mid-level bureaucrats and cops wore, so he wasn’t surprised when the next thing she said was, “You need to come with us now.”
+      Amos smiled at her and considered his options. Half a dozen other cops were converging on him in the tactical body armor high-risk entry teams wore. Three of them had tasers out, the other three semiautomatic handguns. Well, at least they were taking him seriously. That was sort of flattering.
+      Amos raised his hands over his head. “You got me, Sheriff. What are the charges?”
+      The plainclothes officer didn’t respond, and two members of the tactical team pulled his hands behind his back and cuffed him.
+      “I’m wondering,” Amos said, “because I ju
+D, [2018-03-01T17:54:01.690951 #6976] DEBUG -- : ust got here. Any crimes I’m going to commit are theoretical at this point.”
+      “Shush now,” the woman said. “You’re not under arrest. We’re going to take a ride.”
+      “And if I don’t want to?”
+      “Then you’ll be under arrest.”
+      
+         
+        
+          
+        
+         
+      
+      The port authority police station was pretty much exactly like every other police station Amos had ever spent time in. Sometimes the walls were industrial taupe; sometimes they were government green. But the concrete walls and glass-fronted offices looking out over a crowded bull pen of desks would have been just as comfortable on Ceres as it was on Earth. Even the burnt-coffee smell was the same.
+      The plain
+D, [2018-03-01T17:54:07.986169 #6976] DEBUG -- : nclothes cop took him past the desk sergeant with a nod and deposited him in a small room that didn’t look like the interrogation rooms he was used to. Other than a table and four chairs, the only other furnishing was a massive video screen covering most of one wall. Plainclothes sat him in a chair across from it, then left the room, closing the door behind her.
+      “Huh,” Amos said, wondering if this was some new interrogation technique in the cop playbook. He leaned back in the chair to get comfortable, maybe try to catch some shut-eye after the nauseating shuttle ride.
+      “What is this? Nap time? Someone wake him the fuck up,” a familiar voice said.
+      Chrisjen Avasarala was on the screen, looking dow
+D, [2018-03-01T17:54:08.986583 #6976] DEBUG -- : wn on him, her face four times its real size on the giant monitor.
+      “Either I’m not in any trouble, or I’m in all of it,” Amos said with a grin. “How you doin’, Chrissie?”
+      “Good to see you too. Call me that again and I’ll have an officer beat you gently with a cattle prod,” Avasarala replied, though Amos thought he caught a hint of a smile on her face.
+      “Sure thing, Madam Uber Secretary. This a social call, or…?”
+      “Why,” Avasarala said, all traces of humor gone, “are you on Earth?”
+      “Came to pay respects to a friend who died. Did I forget to file a form or something?”
+      “Who? Who died?”
+      “None of your fucking business,” Amos said with a false amiability.
+      “Holden didn’t se
+D, [2018-03-01T17:54:10.027786 #6976] DEBUG -- : end you?”
+      “Nope,” Amos replied, feeling the anger start to warm his belly like a slug of good scotch. He tested the restraints, calculating his odds of getting out of them. Of fighting his way past a room full of cops. It made him smile without realizing it.
+      “If you’re here for Murtry, he isn’t on Earth right now,” Avasarala said. “He claims you beat him half to death in the Rocinante’s airlock during the flight back. Do you mean to finish the job?”
+      “Murtry swung first, so technically, that was self-defense. And if I’d wanted him dead, don’t you think he’d be dead? It’s not like I quit hitting him because I was tired.”
+      “So what, then? If you have a message for me from Holden just spit it 
+D, [2018-03-01T17:54:11.973835 #6976] DEBUG -- :  out. If Holden is sending messages to someone else, tell me who and what they are right now.”
+      “Holden didn’t send me to do shit,” Amos said. “Am I repeating myself? I feel like I’m repeating myself.”
+      “He —” Avasarala started, but Amos cut her off.
+      “He’s the captain of the ship I sail on, he ain’t the boss of my fucking life. I’ve got personal shit to do, and I came here to do it. Now either book me for something or let me go.”
+      Amos hadn’t realized Avasarala was leaning forward in her chair until she relaxed back into it. She let out a long breath that turned into a sigh. “You’re fucking serious, aren’t you?”
+      “Not known for my comic stylings.”
+      “All right. But you understand my
+D, [2018-03-01T17:54:12.435617 #6976] DEBUG -- : y concern.”
+      “That Holden is up to something? Have you met that guy? He’s never done anything secretly in his life.”
+      Avasarala laughed at that. “True. But if he’s sending his hired killer to Earth, we —”
+      “Wait, what?”
+      “If Holden was —”
+      “Forget Holden. You called me his hired killer. Is that how you guys think of me? The killer on Holden’s payroll?”
+      Avasarala frowned. “You’re not?”
+      “Well, mostly I’m a mechanic. But the idea that the UN has a file on me somewhere that lists me as the Rocinante’s killer? That’s kind of awesome.”
+      “You say that kind of thing, it doesn’t make me think we’re wrong, you know.”
+      “So,” Amos said, shrugging with his shoulders like an Eart
+D, [2018-03-01T17:54:18.087871 #6976] DEBUG -- : ther, his hands still behind his back, “we done here?”
+      “Mostly,” Avasarala said. “How was everyone when you left? Good?”
+      “Roci got beat to shit during the Ilus thing. But crew’s good. Alex is trying to reconnect with an ex. Captain and Naomi are still rubbing uglies pretty regular. Same same, mostly.”
+      “Alex is on Mars?”
+      “Well, his ex is. I assume he’d head over there, but he was still on Tycho last I saw him.”
+      “That’s interesting,” Avasarala said. “Not the part where he’s reconnecting with his ex-wife, though. No one ever tries that without seeming like an asshole.”
+      “Right?”
+      “Well,” Avasarala said, then looked up at someone offscreen. She smiled and accepted a steaming c
+D, [2018-03-01T17:56:13.384751 #7021] DEBUG -- : ther, his hands still behind his back, “we done here?”
+      “Mostly,” Avasarala said. “How was everyone when you left? Good?”
+      “Roci got beat to shit during the Ilus thing. But crew’s good. Alex is trying to reconnect with an ex. Captain and Naomi are still rubbing uglies pretty regular. Same same, mostly.”
+      “Alex is on Mars?”
+      “Well, his ex is. I assume he’d head over there, but he was still on Tycho last I saw him.”
+      “That’s interesting,” Avasarala said. “Not the part where he’s reconnecting with his ex-wife, though. No one ever tries that without seeming like an asshole.”
+      “Right?”
+      “Well,” Avasarala said, then looked up at someone offscreen. She smiled and accepted a steaming c
+D, [2018-03-01T17:56:18.781588 #7021] DEBUG -- : cup from a disembodied hand, then took a long sip and sighed with pleasure. “Thank you for meeting with me, Mr. Burton.”
+      “Oh, it was my pleasure.”
+      “Please keep in mind that my name is pretty closely connected with the Rocinante, Captain Holden, and his crew at this point.”
+      “So?” Amos said with another shrug.
+      “So,” Avasarala said, then put her steaming cup down and leaned forward again. “If you’re about to do something I’ll need to cover up later, I’d appreciate a call first.”
+      “You got it, Chrissie.”
+      “Honestly. Fucking stop that,” she said with a smile.
+      The screen went black, and the woman who’d stopped him at the port came in. Amos pointed to the screen with his chin.
+  
+D, [2018-03-01T17:56:20.757872 #7021] DEBUG -- :      “I think she likes me.”
+      
+         
+        
+          
+        
+         
+      
+      The street level view of New York wasn’t all that different from the Baltimore streets he’d grown up on. Lots of tall buildings, lots of automated street traffic, lots of people stratified into two distinct groups: those who had someplace to be, and those who didn’t. The employed scuttled from public transit to office buildings and back again at shift change. They bought things from street vendors, the simple fact of having currency a mark of status. Those on basic drifted and bartered, living on the excess created by the productive, and adding to it where they could with under-the-table industry too small for the g
+D, [2018-03-01T17:56:23.200820 #7021] DEBUG -- : government to notice.
+      Drifting among them like ghosts, invisible to anyone not from their world, was a third group. The ones who lived in the cracks. Thieves looking for an easy score. Pushers and con artists and prostitutes of every age group, every point on the spectrum of gender and sexual orientation. The kind of people Amos had once been. A corner pusher saw him looking and frowned back, seeing Amos for what he was without recognizing him. It didn’t matter. He wouldn’t be in town long enough for it to get to anyone who’d come demanding to know where he fit in their ecosystem.
+      After walking for a couple hours, getting used to the feel of the gravity and concrete beneath his feet, Amos stopped at 
+D, [2018-03-01T17:56:28.051878 #7021] DEBUG -- :  a hotel he picked at random and checked in. One thing about him had changed, and that was money. Shipping with the Rocinante, for all its dangers and drama, had turned out to be a profitable gig. With the shares he’d cashed out, Amos didn’t have to worry about how much the hotel would cost; he just asked for a room and told his terminal to pay for anything the hotel charged him.
+      In his room, he took a long shower. Lydia’s face stared back at him from the bathroom mirror as he brushed his teeth and shaved off the short stubble growing on his head. Getting clean had the feeling of ritual. Like preparations made by a holy man before performing some sacred rite.
+      When he was done, he sat down nude in the
+D, [2018-03-01T17:56:30.693997 #7021] DEBUG -- : e middle of the room’s large bed and looked up Lydia’s obituary. 
+      LYDIA MAALOUF ALLEN, PASSED AWAY WEDNESDAY, APRIL 14TH AT… 
+      Allen. Amos didn’t know that name. As an alias it wasn’t a very good one, since Lydia Maalouf was the name he’d always known her by. Not an alias then. A married name? That was interesting.
+      SHE IS SURVIVED BY HER HUSBAND OF ELEVEN YEARS, CHARLES JACOB ALLEN… 
+      Over a decade after he’d left, Lydia had married a man named Charles. Amos probed at that idea, like poking a finger into a wound to see if it was infected. To see if it hurt. The only reaction he found was curiosity.
+      SHE PASSED QUIETLY IN HER PHILADELPHIA HOME, WITH CHARLES AT HER SIDE… 
+      Charles w
+D, [2018-03-01T17:56:33.987027 #7021] DEBUG -- : was the last one to see her alive, so he was the first one Amos needed to find. After reading the rest of the obituary several times, he logged on to the public mass transit site and booked a ticket for that night on the high-speed rail to Philadelphia. Then he lay back on the bed and closed his eyes. He was oddly excited by the idea of meeting Lydia’s husband. As if her family was his, and Charles was a person he should always have known, but was only now getting to meet. Sleep eluded him, but the soft bed relaxed the muscles tightening in his back, and the last of the nausea from the shuttle ride faded. The path ahead was clear.
+      If Lydia had, indeed, died quietly in her own bed with a loving husband at h
+D, [2018-03-01T17:56:36.204291 #7021] DEBUG -- : her side, then he would meet this man. See the home she’d lived in. Put flowers on her grave and say his last goodbye. If not, he’d kill some people. Neither possibility excited him more than the other. Either one was fine.
+      He slept.
+    
+  
+
+D, [2018-03-01T17:56:37.283906 #7021] DEBUG -- : was the last one to see her alive, so he was the first one Amos needed to find. After reading the rest of the obituary several times, he logged on to the public mass transit site and booked a ticket for that night on the high-speed rail to Philadelphia. Then he lay back on the bed and closed his eyes. He was oddly excited by the idea of meeting Lydia’s husband. As if her family was his, and Charles was a person he should always have known, but was only now getting to meet. Sleep eluded him, but the soft bed relaxed the muscles tightening in his back, and the last of the nausea from the shuttle ride faded. The path ahead was clear.
+      If Lydia had, indeed, died quietly in her own bed with a loving husband at h
+D, [2018-03-01T17:56:39.219901 #7021] DEBUG -- : her side, then he would meet this man. See the home she’d lived in. Put flowers on her grave and say his last goodbye. If not, he’d kill some people. Neither possibility excited him more than the other. Either one was fine.
+      He slept.
+    
+  
+
+D, [2018-03-01T17:56:41.205634 #7021] DEBUG -- : was the last one to see her alive, so he was the first one Amos needed to find. After reading the rest of the obituary several times, he logged on to the public mass transit site and booked a ticket for that night on the high-speed rail to Philadelphia. Then he lay back on the bed and closed his eyes. He was oddly excited by the idea of meeting Lydia’s husband. As if her family was his, and Charles was a person he should always have known, but was only now getting to meet. Sleep eluded him, but the soft bed relaxed the muscles tightening in his back, and the last of the nausea from the shuttle ride faded. The path ahead was clear.
+      If Lydia had, indeed, died quietly in her own bed with a loving husband at h
+D, [2018-03-01T17:56:42.723186 #7021] DEBUG -- : her side, then he would meet this man. See the home she’d lived in. Put flowers on her grave and say his last goodbye. If not, he’d kill some people. Neither possibility excited him more than the other. Either one was fine.
+      He slept.
+    
+  
+
+D, [2018-03-01T17:56:44.019544 #7021] DEBUG -- : 
+  
+    Chapter Eight: Holden
+    
+    
+  
+  
+    
+      
+        
+          
+            
+              
+              Chapter Eight: Holden
+            
+          
+        
+      
+      Holden ran the video back and watched it again. The ship, an ugly box of metal with additional storage containers strapped to its flanks, made him think of the supply-laden covered wagons in old westerns. It wasn’t far from the truth. The Rabia Balkhi, registered to Captain Eric Khan out of Pallas, was still just goods and people heading into the frontier to stake a claim. Fewer horses, maybe, but more fusion reactors.
+      Again, the ship passed through the gate, the image wiggled and jumped, the Balkhi was gone.
+      “So?” 
+D, [2018-03-01T17:56:45.443688 #7021] DEBUG -- :  Monica asked, her voice rich with anticipation. “What do you think?”
+      He scratched his arm, deciding what the answer was.
+      “There are a million reasons an old rust bucket like that might disappear out there,” he said. “Loss of core containment, loss of atmospheric pressure, run into debris. Hell, the radio might have just gone out and they’re living comfortably on a new planet and hoping someone will drop by to check on them.”
+      “Maybe,” Monica said with a nod. “If there was only one. But four hundred thirty-seven ships have passed through the rings into new solar systems over the last year. And of them, thirteen have just vanished. Poof.” She spread her fingers out like a tiny explosion. Holden d
+D, [2018-03-01T17:56:48.526073 #7021] DEBUG -- : did the math in his head. That was something like a three percent rate of loss. Back when he’d been in the Navy, the budgets had assumed about half of a percent loss to mechanical failure, asteroid impacts, sabotage, and enemy action. This was six times that.
+      “Huh,” he said. “That seems pretty high for ships that were able to fly the year and a half to get to the Ring.”
+      “Agreed. Way too high. If ships blew up without explanation that regularly, no one would ever fly.”
+      “So,” Holden said, then paused to order another drink from the table menu. He had a feeling he’d need it. “Why isn’t anyone talking about it? Who’s keeping track of them?”
+      “No one!” Monica said triumphantly. “That’s the whol
+D, [2018-03-01T17:56:50.309298 #7021] DEBUG -- :  Monica asked, her voice rich with anticipation. “What do you think?”
+      He scratched his arm, deciding what the answer was.
+      “There are a million reasons an old rust bucket like that might disappear out there,” he said. “Loss of core containment, loss of atmospheric pressure, run into debris. Hell, the radio might have just gone out and they’re living comfortably on a new planet and hoping someone will drop by to check on them.”
+      “Maybe,” Monica said with a nod. “If there was only one. But four hundred thirty-seven ships have passed through the rings into new solar systems over the last year. And of them, thirteen have just vanished. Poof.” She spread her fingers out like a tiny explosion. Holden d
+D, [2018-03-01T17:56:51.906750 #7021] DEBUG -- : did the math in his head. That was something like a three percent rate of loss. Back when he’d been in the Navy, the budgets had assumed about half of a percent loss to mechanical failure, asteroid impacts, sabotage, and enemy action. This was six times that.
+      “Huh,” he said. “That seems pretty high for ships that were able to fly the year and a half to get to the Ring.”
+      “Agreed. Way too high. If ships blew up without explanation that regularly, no one would ever fly.”
+      “So,” Holden said, then paused to order another drink from the table menu. He had a feeling he’d need it. “Why isn’t anyone talking about it? Who’s keeping track of them?”
+      “No one!” Monica said triumphantly. “That’s the whol
+D, [2018-03-01T17:57:18.918981 #7058] DEBUG -- : did the math in his head. That was something like a three percent rate of loss. Back when he’d been in the Navy, the budgets had assumed about half of a percent loss to mechanical failure, asteroid impacts, sabotage, and enemy action. This was six times that.
+      “Huh,” he said. “That seems pretty high for ships that were able to fly the year and a half to get to the Ring.”
+      “Agreed. Way too high. If ships blew up without explanation that regularly, no one would ever fly.”
+      “So,” Holden said, then paused to order another drink from the table menu. He had a feeling he’d need it. “Why isn’t anyone talking about it? Who’s keeping track of them?”
+      “No one!” Monica said triumphantly. “That’s the whol
+D, [2018-03-01T17:57:22.280942 #7058] DEBUG -- : le thing. No one is tracking them. We have thousands of ships leaving the inner system and streaming toward the gates. They belong to citizens of three different governments, and some who don’t think of themselves as citizens of any government. Most of these people never even filed a flight plan, they just threw their suitcases in a rock hopper and blasted off for the new worlds.”
+      “Real estate grabs are like that, I guess.”
+      “So here they are, heading off alone or in handfuls, and all of them with the incentive to get wherever it is first. Only something’s stopping them. Disappearing them. Or, some of them anyway.”
+      “Clearly,” Holden said, “you have a theory.”
+      “I think it’s the protomolecul
+D, [2018-03-01T17:57:24.589562 #7058] DEBUG -- : le.”
+      Holden sighed and rubbed his face with both hands. His drink arrived, and he sipped at it for a minute. The cold of the ice and the bite of the gin filled his mouth. Monica stared at him, practically bouncing with impatience. He said, “No, it’s not. The protomolecule is gone. It’s dead. I fired the last processing node into a star.”
+      “How do you know that? Even if it was the last of the ring-building weapon, we know whoever made all this did it with protomolecule tools. And what else can it be? I’ve read the reports. All those robots and things that woke up on Ilus? The protomolecule attacks us for taking its stuff.”
+      “No, it doesn’t,” Holden said. “That’s not what happened. Without knowing 
+D, [2018-03-01T17:57:27.275464 #7058] DEBUG -- :  it, I’d brought a node of the original infection with me that was still trying to connect with whatever sent it out in the first place. It woke a lot of stuff up in the process. We shut it down, and, you know, shot it into a star to avoid that happening again.”
+      “How can you be sure?”
+      At the sushi bar, one of the chefs barked out an announcement, and half a dozen people around him applauded. Holden took a deep breath, letting it out slowly through his teeth.
+      “I guess I can’t be. How do you prove a negative?”
+      “I know a way that maybe you can,” Monica said. The look on her face made Holden think whatever she was about to say next was the entire reason for their conversation. It felt a littl
+D, [2018-03-01T17:57:31.086011 #7058] DEBUG -- : le like watching a hunting cat track a steak. “Fred Johnson still has what may be the only remaining sample of the protomolecule. The one you took off the secret Mao-Kwikowski ship.”
+      “The one I… Hey, how do you know that?” Holden said. “And how many other people know that?”
+      “I don’t disclose sources, but I think we should get it and see if we can wake it up. Get your ghost Miller to come back and find out if the protomolecule is using the gates to destroy our ships.”
+      Half a dozen responses crashed together in Holden’s mind, ranging from That is the worst idea I’ve ever heard to Are you even listening to what you’re saying? It took a few seconds for one to win out.
+      “You want me to do a séa
+D, [2018-03-01T17:57:36.648719 #7058] DEBUG -- : ance?”
+      “I wouldn’t call it a —”
+      “No,” Holden said. “Just no.”
+      “I can’t just let this drop. If you won’t help —”
+      “I didn’t say I wouldn’t help. I said I’m not going to go commune with a bit of killer alien goo in hopes that it starts telling me its old cop stories. We don’t want to poke that stuff. We should leave it alone.”
+      Monica’s expression was open and interested. He wouldn’t have been able to see her annoyance and disappointment if he hadn’t known to look.
+      “What then?” she asked.
+      “You know the old joke about hearing hoofbeats, right?”
+      “I guess I don’t.”
+      “Long story, but the point is that if you hear hoofbeats in the distance, your first guess is that the
+D, [2018-03-01T17:57:37.735351 #7058] DEBUG -- : ey’re horses, not zebras. And you’re hearing hoofbeats and jumping straight to unicorns.”
+      “So what are you saying?”
+      “I’m saying let’s go see if we can find some horses or zebras before we start a unicorn hunt.”
+      
+         
+        
+          
+        
+         
+      
+      An intriguing new mystery didn’t mean Holden no longer had a day job, but it did give him something to think about other than missing Naomi. And Amos. And Alex. But mostly Naomi. As he crawled along the exposed ribs of the Rocinante’s flank with a plasma torch in his hand and looked for cracks, he pondered where ships could go when they disappeared. Monica was right; the number was too high to be just random system failures. 
+D, [2018-03-01T17:57:39.318901 #7058] DEBUG -- :  There were a lot of other possibilities, even discounting her protomolecule unicorn theory. But Holden had stopped believing in coincidence about when he’d first started spending time with Detective Miller. And the other big thing going on was that radical OPA factions were launching attacks on inner planet holdings like Callisto. And even Earth.
+      A violent faction of the OPA was dead set against colonization. And, now, colony ships loaded with supplies were vanishing without a trace. Also, Medina Station – nee Behemoth nee Nauvoo and the hub of all the ring gates – was solidly in the control of the OPA. It made a compelling narrative, even if he didn’t have any actual evidence that it was true.
+      In t
+D, [2018-03-01T17:57:41.289412 #7058] DEBUG -- : ey’re horses, not zebras. And you’re hearing hoofbeats and jumping straight to unicorns.”
+      “So what are you saying?”
+      “I’m saying let’s go see if we can find some horses or zebras before we start a unicorn hunt.”
+      
+         
+        
+          
+        
+         
+      
+      An intriguing new mystery didn’t mean Holden no longer had a day job, but it did give him something to think about other than missing Naomi. And Amos. And Alex. But mostly Naomi. As he crawled along the exposed ribs of the Rocinante’s flank with a plasma torch in his hand and looked for cracks, he pondered where ships could go when they disappeared. Monica was right; the number was too high to be just random system failures. 
+D, [2018-03-01T17:57:43.429969 #7058] DEBUG -- :  There were a lot of other possibilities, even discounting her protomolecule unicorn theory. But Holden had stopped believing in coincidence about when he’d first started spending time with Detective Miller. And the other big thing going on was that radical OPA factions were launching attacks on inner planet holdings like Callisto. And even Earth.
+      A violent faction of the OPA was dead set against colonization. And, now, colony ships loaded with supplies were vanishing without a trace. Also, Medina Station – nee Behemoth nee Nauvoo and the hub of all the ring gates – was solidly in the control of the OPA. It made a compelling narrative, even if he didn’t have any actual evidence that it was true.
+      In t
+D, [2018-03-01T17:57:43.935694 #7058] DEBUG -- : that scenario, the ships would be boarded by OPA pirate crews, the supplies taken, and the colonists… spaced? A gruesome idea if it were true, and still not the most horrific thing humans had ever done to each other. But that left the ships. They’d keep the ships, and then they’d have to make them disappear. That meant changing the transponder codes. The fact that the Rocinante was no longer the Tachi was proof that the OPA had that ability.
+      “Sakai,” Holden said, chinning the radio frequency to the private channel he and the chief engineer shared. “Yo, you around?”
+      “Problem?” he replied in a tone of voice that sounded like he was daring Holden to have a problem. Holden had learned not to be offended 
+D, [2018-03-01T17:57:44.376864 #7058] DEBUG -- :  by it. Impatience was Sakai’s default state.
+      “More of a riddle.”
+      “I hate riddles,” Sakai said.
+      “Let’s say you’re trying to figure out if someone has stolen a bunch of ships and changed the transponder codes. How would you find those ships, if you had to?”
+      The engineer huffed thoughtfully for a moment.
+      “Don’t look for the missing ships,” Sakai replied. “Look for the new ones that show up out of nowhere.”
+      “Yes, good. That,” Holden said, “is exactly right. Thanks.”
+      He stopped at a cracked weld between the inner hull and one of the ship’s ribs and started touching it up with the torch. His faceplate darkened, turning the world into a black place with one bright blue light i
+D, [2018-03-01T17:57:45.113878 #7058] DEBUG -- : in it. While he worked, he thought through how you’d track the magically appearing new ships down. The public ship registry was a good place to start, but you’d drown in data trying to do it manually. If Naomi were here, he had no doubt she’d have been able to build a program to find what he wanted in ten minutes on her hand terminal. He, sadly, didn’t have her programming skills, but Fred had software engineers on the payroll, and if he —
+      “Why?” Sakai said. It had been so long since the engineer had spoken that it took Holden a moment to remember the context for the question.
+      “Why what? Why do I want to know how to find lost ships?”
+      “Yeah.”
+      “So I have this reporter friend who’s looking i
+D, [2018-03-01T17:57:46.176622 #7058] DEBUG -- : into some missing ships. I said I’d give her a hand. Just trying to think of ways to actually do that.”
+      “Stuart,” Sakai said. It was half statement, half question. “I heard she was on the station.”
+      “Yeah, my old buddy Monica. Truth is, I think she’s snipe hunting, but I said I’d help. And I need something to do that isn’t feeling lonely and sorry for myself.”
+      “Yeah,” Sakai said, then after a long moment added, “So shit hasn’t gone weird enough for you to believe in snipes?”
+      
+         
+        
+          
+        
+         
+      
+      There was a video message light blinking on his home console. Holden tried his hardest not to hope it was from Naomi and still felt a crushing disappointme
+D, [2018-03-01T17:57:46.698614 #7058] DEBUG -- : ent when Alex’s round face appeared on the screen. “Hi boss,” the pilot said. “So the thing where I meet up with my ex-wife and we have a tearful reconciliation? Yeah, that was a failure. Probably shoulda thought that one through a little better. But I’m plannin’ on stopping by to see Bobbie before I leave, so there’s a bright spot. How’s my girl? You guys gettin’ her all polished up and pretty for my return? I’ll check in again when I can. Kamal out.”
+      Holden almost started his reply off by asking for a report on the ex-wife situation, but the little Naomi voice that now lived in his head said Don’t be nosey, so instead he replied, “Thanks for checking in. Give Bobbie my best. The Roci’s still months from 
+D, [2018-03-01T17:57:47.170628 #7058] DEBUG -- :  ready, so take your time.”
+      He sat for a minute trying to think of something else to say, then just cut the dead air off the end of the message and sent it. It was strange how a person could be so vitally important in your life, and yet you had nothing to say to them when they weren’t sharing the same air. Normally, he and Alex would talk about the ship, about the other two crew members, about jobs. With them all split up and the Roci in dry dock, there wasn’t much left to say that wasn’t a personal invasion. Thinking about that looked like the beginning of a long dark road to bitter loneliness, so he decided to go investigating instead.
+      He kind of wished he had a hat.
+      
+         
+        
+     
+D, [2018-03-01T17:57:47.635595 #7058] DEBUG -- :       
+        
+         
+      
+      “Back so soon?” Fred said when Holden was ushered into his office by one of the OPA leader’s minions. “I know my coffee is good, but…”
+      Holden grabbed a chair and stretched out while Fred puttered with the coffee maker. “So Monica Stuart is on Tycho.”
+      “Yeah. You think someone like that lands on this station without me knowing about it?”
+      “No,” Holden admitted. “But do you know why she’s here?”
+      The coffee maker started hissing to itself, and the office was filled with a rich, bitter smell. While the coffee brewed, Fred leaned over his desk tapping on the terminal. “Something with missing ships, right? That’s what our intel team says.”
+      “Have your p
+D, [2018-03-01T17:57:48.123328 #7058] DEBUG -- : people looked into it at all?”
+      “Honestly? No. I’d heard rumblings about it, but we’re buried here. Every ship with a functioning Epstein is heading through for the gates. We’ve got our hands full keeping them from running into each other going through the rings. Most of them are going into unexplored systems with no other ships or stations. We don’t hear back from a few, sort of seems like the obvious thing happening.”
+      Holden accepted a steaming mug from Fred with a grateful nod and took a sip. The old man’s coffee didn’t disappoint. “I get that,” Holden said after another drink. “And I think her theory on it is pretty far-fetched, but it’s the kind of thing that will get public traction if we don’t 
+D, [2018-03-01T17:57:49.124042 #7058] DEBUG -- :  find a better answer first.”
+      “She has a theory already?”
+      “She thinks it’s the protomolecule. The robots and tech waking up on Ilus is her one datapoint.”
+      “You told me that was a onetime thing,” Fred said, frowning over his coffee mug. When he spoke again his words blew steam in front of them, like a whisp of dragon breath. “Is Miller back?”
+      “No, he’s not back. As far as I know, there isn’t an active protomolecule culture in existence in the universe. But —”
+      “But I’ve got the inactive stuff you gave me.”
+      “Right, and Monica knows about it somehow,” Holden said.
+      Fred’s frown only deepened at that. “I’ve got a leak somewhere.”
+      “Yeah, you totally do, but that isn’t the
+D, [2018-03-01T17:57:54.865234 #7058] DEBUG -- : e part that worries me.”
+      Fred’s eyebrows went up in a nonverbal question.
+      “Monica,” Holden continued, “has decided that we should take out the goo and use it like some sort of Ouija board to summon the ghost of Miller.”
+      “But that’s stupid,” Fred said.
+      “Right? So I think we should exhaust all other possibilities before we leap right to tinkering with alien viruses.”
+      “First time for everything, I guess,” Fred said, only lightly coating the words in sarcasm. “You have alternate theories?”
+      “I do,” Holden said, “but you won’t like it.”
+      “I also still have bourbon if we need anesthetic for this operation.”
+      “It may get there,” Holden replied, then drank off the rest of his
+D, [2018-03-01T17:57:57.122484 #7058] DEBUG -- : s coffee to give himself time. No matter how much Fred had aged over the last half decade, Holden found himself still intimidated by the man. It was hard to broach topics Fred might take offense to.
+      “More?” Fred asked, pointing at his empty cup. Holden declined with a shake of his head.
+      “So there’s that radical extremist faction of the OPA that you were telling me about,” Holden said.
+      “I don’t think —”
+      “They’ve had at least two public attacks. One on Martian interests, and one on Earth itself.”
+      “Both of which failed.”
+      “Maybe,” Holden said. “But we’re assuming we know what their goals were, and that seems like a bad assumption to make. Maybe blowing up a big chunk of a Martian 
+D, [2018-03-01T17:57:57.667616 #7058] DEBUG -- :  shipyard and forcing the UN home fleet to fire a bunch of missiles at an ancient freighter are wins to them.”
+      “Okay,” Fred said with a grudging nod. “Fair enough.”
+      “But there’s a third leg to this. Sure, the radicals think Earth and Mars will abandon them once the new worlds are colonized, but that means the colonists themselves are part of the problem.”
+      “Agreed.”
+      “So, what if this radical OPA wing decides that in addition to blowing up some of the inner planets’ shit, they can send a message by taking out some colony ships?”
+      “Well,” Fred said, speaking slowly as though he were working out the answer as he said it, “the big problem with that is the location of the attacks.”
+      “
+D, [2018-03-01T17:57:58.295583 #7058] DEBUG -- : “Because they happen on the other side of the gates.”
+      “Exactly,” Fred continued. “If ships were getting nuked as they passed through the Belt, that would be one thing. But on the other side of the gates? Who has access there? Unless you’re thinking the ships were sabotaged in some way. A bomb with a really long fuse?”
+      “There’s another alternative,” Holden said.
+      “No, there isn’t,” Fred replied, anticipating his next argument.
+      “Fred, look, I know you don’t want to think you’ve got people working against your interests on Medina. Doctoring records, maybe. Shutting off sensors when there’re things they don’t want people to see. And I get why that’s hard to swallow.”
+      “Medina is central t
+D, [2018-03-01T17:58:07.253658 #7058] DEBUG -- : to our long-term plans,” Fred said, his words hard as iron. “I’ve placed all of my very best and most loyal people on that station. If the radicals have a fifth column there, then it means that I can’t trust anyone in my organization. I might as well pack it up and retire.”
+      “There are thousands of people on Medina, I doubt you can vouch for every one of them personally.”
+      “No, but the people running the station are my people. The most loyal I have. There’s no way something like this could be going on without their knowledge and cooperation.”
+      “That’s a scary thought.”
+      “It means I don’t own Medina Station,” Fred said. “It means that the most violent, hard-line, extremist faction of our group
+D, [2018-03-01T17:58:08.120979 #7058] DEBUG -- : p controls the choke point of the entire galaxy.”
+      “So,” Holden said, “how would one go about finding that out?”
+      Fred leaned back in his chair with a sigh and gave Holden a sad smile. “You know what I think? I think you’re bored, and lonely, and looking for a distraction. Don’t dismantle the organization I spent a lifetime building to give yourself something to do.”
+      “But ships are missing. Even if it isn’t Medina taking them, something is. I don’t know that we can just ignore that and hope it goes away.”
+      “Fix your own ship, Jim. Fix your ship and get your crew back together. This thing with the missing ships isn’t your job.”
+      “Thanks for the coffee,” Holden said, standing up to leave.
+D, [2018-03-01T17:58:09.165022 #7058] DEBUG -- : .
+      “You’re not going to drop it, are you?”
+      “What do you think?”
+      “I think,” Fred said, “that if you break any of my stuff, you get to pay for it.”
+      “Noted,” Holden said with a grin. “I’ll keep you in the loop.”
+      As he walked out the door, he could picture Miller smiling and saying, You can tell you’ve found a really interesting question when nobody wants you to answer it.
+    
+  
+
+D, [2018-03-01T17:58:13.818411 #7058] DEBUG -- : 
+  
+    Chapter Nine: Naomi
+    
+    
+  
+  
+    
+      
+        
+          
+            
+              
+              Chapter Nine: Naomi
+            
+          
+        
+      
+      Once upon a time there had been a Belter girl named Naomi Nagata, and now there was a woman. Even though the difference between the two had been created a day, an hour, a minute at a time, the Venn diagram of the two almost didn’t overlap. What could be cut away, she’d cut years ago. What remained did so in spite of her efforts. For the most part, she could work around them.
+      “Enjoy your stay on Ceres,” the customs agent said, his eyes already flicking to the man standing behind her. She nodded, smiling politely through the sp
+D, [2018-03-01T17:58:15.493465 #7058] DEBUG -- : pill of her hair, and walked out into the wide corridors of the spaceport. Another face among the millions.
+      Ceres Station was the biggest city in the Belt. Six million people, more or less, in a hollowed asteroid hundreds of kilometers in diameter. She’d heard that the port traffic alone could add as many as a million transient bodies on a given day. For most of her life, it had been the symbol of inner planetary colonialism. The tower of the enemy on native Belter ground.
+      Outside the spaceport proper, the corridors were warm bordering on hot, the entropic load of the city trapped by the thermos-bottle vacuum of space. Moisture thickened the air, and the smell of bodies and dried piss was like seeing
+D, [2018-03-05T09:11:54.808734 #3758] DEBUG -- : pill of her hair, and walked out into the wide corridors of the spaceport. Another face among the millions.
+      Ceres Station was the biggest city in the Belt. Six million people, more or less, in a hollowed asteroid hundreds of kilometers in diameter. She’d heard that the port traffic alone could add as many as a million transient bodies on a given day. For most of her life, it had been the symbol of inner planetary colonialism. The tower of the enemy on native Belter ground.
+      Outside the spaceport proper, the corridors were warm bordering on hot, the entropic load of the city trapped by the thermos-bottle vacuum of space. Moisture thickened the air, and the smell of bodies and dried piss was like seeing
+D, [2018-03-05T09:11:58.017058 #3758] DEBUG -- : g an old friend’s smile. Three-meter-high screens shouted advertisements for machine rigs one second and high fashion the next, their clamor only a thread in the constant, roaring symphony of voices and carts and machinery. A public newsfeed was showing images of fighting somewhere on Earth. Another little insurgent cult or traditional ethnic conflict calling for its due in blood again, important only because it was on Earth. Even for Belters who’d called the float their home for generations, Earth carried a symbolic load. The mother of humanity with her boot firmly on Belter necks. On the screen, a pale-skinned man with blood sheeting down from a scalp wound held up a book. Probably a holy book. He was shouting
+D, [2018-03-05T09:11:59.960553 #3758] DEBUG -- : pill of her hair, and walked out into the wide corridors of the spaceport. Another face among the millions.
+      Ceres Station was the biggest city in the Belt. Six million people, more or less, in a hollowed asteroid hundreds of kilometers in diameter. She’d heard that the port traffic alone could add as many as a million transient bodies on a given day. For most of her life, it had been the symbol of inner planetary colonialism. The tower of the enemy on native Belter ground.
+      Outside the spaceport proper, the corridors were warm bordering on hot, the entropic load of the city trapped by the thermos-bottle vacuum of space. Moisture thickened the air, and the smell of bodies and dried piss was like seeing
+D, [2018-03-05T09:14:11.269209 #3804] DEBUG -- : pill of her hair, and walked out into the wide corridors of the spaceport. Another face among the millions.
+      Ceres Station was the biggest city in the Belt. Six million people, more or less, in a hollowed asteroid hundreds of kilometers in diameter. She’d heard that the port traffic alone could add as many as a million transient bodies on a given day. For most of her life, it had been the symbol of inner planetary colonialism. The tower of the enemy on native Belter ground.
+      Outside the spaceport proper, the corridors were warm bordering on hot, the entropic load of the city trapped by the thermos-bottle vacuum of space. Moisture thickened the air, and th
+D, [2018-03-05T09:14:14.356450 #3804] DEBUG -- : he smell of bodies and dried piss was like seeing an old friend’s smile. Three-meter-high screens shouted advertisements for machine rigs one second and high fashion the next, their clamor only a thread in the constant, roaring symphony of voices and carts and machinery. A public newsfeed was showing images of fighting somewhere on Earth. Another little insurgent cult or traditional ethnic conflict calling for its due in blood again, important only because it was on Earth. Even for Belters who’d called the float their home for generations, Earth carried a symbolic load. The mother of humanity with her boot firmly on Belter necks. On the screen, a pale-skinned man w
+D, [2018-03-05T09:14:20.059782 #3804] DEBUG -- : with blood sheeting down from a scalp wound held up a book. Probably a holy book. He was shouting, his mouth squared by rage. Kill as many people in the Belt, and it wouldn’t have been news. Even now.
+      She turned spinward, looking for a food kiosk serving something appealing. There were the usual corporate products, the same at any station. Now that the OPA ran Ceres, there were also other options. Dhejet and egg curry, cow-style noodle bowl, red kibble. The foods of her childhood. Belter foods. The kitchen on the Rocinante had been designed by someone in the Martian Navy, and the food stocks it accepted were always nourishing, usually good, and sometimes exce
+D, [2018-03-05T09:14:21.435751 #3804] DEBUG -- : he smell of bodies and dried piss was like seeing an old friend’s smile. Three-meter-high screens shouted advertisements for machine rigs one second and high fashion the next, their clamor only a thread in the constant, roaring symphony of voices and carts and machinery. A public newsfeed was showing images of fighting somewhere on Earth. Another little insurgent cult or traditional ethnic conflict calling for its due in blood again, important only because it was on Earth. Even for Belters who’d called the float their home for generations, Earth carried a symbolic load. The mother of humanity with her boot firmly on Belter necks. On the screen, a pale-skinned man w
+D, [2018-03-05T09:14:23.315758 #3804] DEBUG -- : with blood sheeting down from a scalp wound held up a book. Probably a holy book. He was shouting, his mouth squared by rage. Kill as many people in the Belt, and it wouldn’t have been news. Even now.
+      She turned spinward, looking for a food kiosk serving something appealing. There were the usual corporate products, the same at any station. Now that the OPA ran Ceres, there were also other options. Dhejet and egg curry, cow-style noodle bowl, red kibble. The foods of her childhood. Belter foods. The kitchen on the Rocinante had been designed by someone in the Martian Navy, and the food stocks it accepted were always nourishing, usually good, and sometimes exce
+D, [2018-03-05T09:14:29.668160 #3804] DEBUG -- : ellent. But they weren’t her food.
+      She opted for red kibble from a scarred kiosk with adhesive from generations of nightclub flyers caking its sides. It came in a brown pressed-shred container that fit in her left palm with a plastic spatula like a flattened spoon to eat with. The first bite filled her mouth with cumin and her mind with dust-covered memory. For a moment, she was in her bunk on Tio Kriztec’s ship, huddled over the white ceramic bowl she had loved then and forgotten for years, eating quietly while the others sang in the galley. She couldn’t have been more than six at the time, but the memory was fresh and bright. She took another bite, savoring
+D, [2018-03-05T09:14:30.555297 #3804] DEBUG -- : with blood sheeting down from a scalp wound held up a book. Probably a holy book. He was shouting, his mouth squared by rage. Kill as many people in the Belt, and it wouldn’t have been news. Even now.
+      She turned spinward, looking for a food kiosk serving something appealing. There were the usual corporate products, the same at any station. Now that the OPA ran Ceres, there were also other options. Dhejet and egg curry, cow-style noodle bowl, red kibble. The foods of her childhood. Belter foods. The kitchen on the Rocinante had been designed by someone in the Martian Navy, and the food stocks it accepted were always nourishing, usually good, and sometimes exce
+D, [2018-03-05T09:14:31.283973 #3804] DEBUG -- : ellent. But they weren’t her food.
+      She opted for red kibble from a scarred kiosk with adhesive from generations of nightclub flyers caking its sides. It came in a brown pressed-shred container that fit in her left palm with a plastic spatula like a flattened spoon to eat with. The first bite filled her mouth with cumin and her mind with dust-covered memory. For a moment, she was in her bunk on Tio Kriztec’s ship, huddled over the white ceramic bowl she had loved then and forgotten for years, eating quietly while the others sang in the galley. She couldn’t have been more than six at the time, but the memory was fresh and bright. She took another bite, savoring
+D, [2018-03-05T09:14:32.531796 #3804] DEBUG -- : with blood sheeting down from a scalp wound held up a book. Probably a holy book. He was shouting, his mouth squared by rage. Kill as many people in the Belt, and it wouldn’t have been news. Even now.
+      She turned spinward, looking for a food kiosk serving something appealing. There were the usual corporate products, the same at any station. Now that the OPA ran Ceres, there were also other options. Dhejet and egg curry, cow-style noodle bowl, red kibble. The foods of her childhood. Belter foods. The kitchen on the Rocinante had been designed by someone in the Martian Navy, and the food stocks it accepted were always nourishing, usually good, and sometimes exce
+D, [2018-03-05T09:14:33.139964 #3804] DEBUG -- : ellent. But they weren’t her food.
+      She opted for red kibble from a scarred kiosk with adhesive from generations of nightclub flyers caking its sides. It came in a brown pressed-shred container that fit in her left palm with a plastic spatula like a flattened spoon to eat with. The first bite filled her mouth with cumin and her mind with dust-covered memory. For a moment, she was in her bunk on Tio Kriztec’s ship, huddled over the white ceramic bowl she had loved then and forgotten for years, eating quietly while the others sang in the galley. She couldn’t have been more than six at the time, but the memory was fresh and bright. She took another bite, savoring

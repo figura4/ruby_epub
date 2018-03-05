@@ -1,15 +1,18 @@
 require 'epub/parser'
 require 'curses'
 require 'psych'
+require 'logger'
 
 def init_app
   Curses.init_screen
   Curses.noecho
   Curses.cbreak
-  Curses.curs_set(0) 
+  Curses.curs_set(0)
 
   @save_file = './bookmark.yml'
   @filename = ARGV[0]
+
+  @log = Logger.new('log.txt')
 
   @book = EPUB::Parser.parse(@filename)
 
@@ -17,13 +20,13 @@ def init_app
   @win.keypad = true
   @max_x = @win.maxx
   @max_y = @win.maxy
-  @area = (@max_x) * (@max_y -4)
-end  
+  @area = (@max_x) * (@max_y -5)
+end
 
 def set_header
   @win.setpos(0, 0)
   @win.addstr("#{@book.metadata.title} - Chapter #{@bookmark_cur_chap} of #{@parser.count}")
-end  
+end
 
 def page_down
   @bookmark_cur_pos += @area
@@ -41,7 +44,7 @@ def page_down
   @win.setpos(2, 0)
   @win.addstr(reformat_wrapped(@chapter.content_document.nokogiri.text[@bookmark_cur_pos..(@bookmark_cur_pos + @area)], @max_x - 1))
   @win.refresh
-end  
+end
 
 def page_up
   @bookmark_cur_pos -= @area
@@ -51,10 +54,10 @@ def page_up
     @bookmark_cur_chap -= 1
     if @bookmark_cur_chap < 0
       @bookmark_cur_chap = 0
-    end  
+    end
     for i in 1..@bookmark_cur_chap
-      @chapter = @parser.next 
-    end 
+      @chapter = @parser.next
+    end
     @bookmark_cur_pos = @chapter.content_document.nokogiri.text.length - @area
   end
 
@@ -65,7 +68,7 @@ def page_up
   @win.setpos(2, 0)
   @win.addstr(reformat_wrapped(@chapter.content_document.nokogiri.text[@bookmark_cur_pos..(@bookmark_cur_pos + @area)], @max_x - 1))
   @win.refresh
-end  
+end
 
 def save_bookmark
   File.open('bookmark.yml', 'w') do |file|
@@ -84,30 +87,32 @@ def load_bookmark
   @parser = @book.each_page_on_spine
 
   for i in 1..@bookmark_chapter
-    @chapter = @parser.next 
-  end 
+    @chapter = @parser.next
+  end
 
   set_header
 
   @win.setpos(2, 0)
   @win.addstr(reformat_wrapped(@chapter.content_document.nokogiri.text[@bookmark_cur_pos..(@bookmark_cur_pos + @area)], @max_x - 1))
   @win.refresh
-end  
+end
 
 def reformat_wrapped(s, width=78)
+  #"lorem ispum \\n\\n dixit suca".gsub('\n\n', '##par##').split(/\s+/).join(' ').gsub('##par##', '\n\n')
   lines = []
   line = ""
-  s.split(/\s+/).each do |word|
+  @log.debug s
+  s.gsub(".\n", '##.par##').gsub("”\n", '##c_par##').split(/\s+/).each do |word|
     if line.size + word.size >= width
-      lines << line
+      lines << line.gsub('##.par##', ".\n").gsub('##c_par##', "”\n")
       line = word
     elsif line.empty?
      line = word
     else
      line << " " << word
-   end
-   end
-   lines << line if line
+    end
+  end
+  lines << line.gsub('##.par##', ".\n").gsub('##c_par##', "”\n") if line
   return lines.join "\n"
 end
 
@@ -118,16 +123,16 @@ begin
 
   while true
     @input = @win.getch
-    
+
     if @input == 258
       page_down
     elsif @input == 259
-      page_up  
+      page_up
     elsif @input == "q" or @input == 27
       save_bookmark
-      break  
-    end  
-  end  
+      break
+    end
+  end
 ensure
   Curses.close_screen
 end
