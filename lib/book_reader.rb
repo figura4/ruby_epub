@@ -63,9 +63,13 @@ class BookReader
   end
 
   def load_bookmark
-    bookmark = Psych.load_file(@save_file)
+    if File.exist?("#{@filename}.yml")
+      bookmark = Psych.load_file(@save_file)
+      @current_row = [bookmark['current_row'], @text.count].min
+    else
+      @current_row = 0
+    end
 
-    @current_row = [bookmark['current_row'], @text.count].min
     @page = @text[@current_row..[@current_row + @rows_in_page, @text.count].min].join("\n")
 
     refresh_page
