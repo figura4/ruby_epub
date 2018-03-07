@@ -2,7 +2,9 @@
 
 This is a simple command line epub reader written in ruby. It supports bookmarking last position read.
 
-Usage: ruby read.rb <my_book.epub>
+Usage: 
+
+`ruby read.rb <my_book.epub>`
 
 Commands:
 
