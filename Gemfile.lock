@@ -27,7 +27,7 @@ PLATFORMS
 DEPENDENCIES
   curses (~> 1.2.4)
   epub-parser (~> 0.3.2)
-  psych
+  psych (~> 3.0.2)
 
 RUBY VERSION
    ruby 2.4.2p198
